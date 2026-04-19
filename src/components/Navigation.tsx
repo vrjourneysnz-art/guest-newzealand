@@ -71,7 +71,7 @@ export default function Navigation() {
             <Link href="/travel-information" className="text-dark hover:text-sage transition-colors text-sm font-semibold">
               Travel Information
             </Link>
-            <Link href="/new-zealand-travel-blogs" className="text-dark hover:text-sage transition-colors text-sm font-semibold">
+            <Link href="/new-zealand-travel-blog" className="text-dark hover:text-sage transition-colors text-sm font-semibold">
               Blog
             </Link>
             <Link
@@ -140,7 +140,7 @@ export default function Navigation() {
               Travel Information
             </Link>
             <Link
-              href="/new-zealand-travel-blogs"
+              href="/new-zealand-travel-blog"
               className="block py-2.5 text-dark hover:text-sage transition-colors font-semibold"
               onClick={() => setMobileOpen(false)}
             >

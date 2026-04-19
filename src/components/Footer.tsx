@@ -26,7 +26,7 @@ export default function Footer() {
               <li><Link href="/itineraries" className="hover:text-gold transition-colors">Itineraries</Link></li>
               <li><Link href="/travel-planning" className="hover:text-gold transition-colors">Travel Planning</Link></li>
               <li><Link href="/travel-information" className="hover:text-gold transition-colors">Travel Information</Link></li>
-              <li><Link href="/new-zealand-travel-blogs" className="hover:text-gold transition-colors">Blog</Link></li>
+              <li><Link href="/new-zealand-travel-blog" className="hover:text-gold transition-colors">Blog</Link></li>
             </ul>
           </div>
 
@@ -34,15 +34,11 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-3 text-gold text-sm uppercase tracking-wider">Contact</h4>
             <p className="text-sm text-white/70 mb-4">michael@guestnewzealand.com</p>
-            {/* TODO: replace placeholder social URLs with NZ-specific handles */}
             <div className="flex space-x-4">
-              <a href="#" aria-label="YouTube" className="text-white/50 hover:text-gold transition-colors">
+              <a href="https://www.youtube.com/@virtualjourneysnz" target="_blank" rel="noopener noreferrer" aria-label="YouTube" className="text-white/50 hover:text-gold transition-colors">
                 <i className="fa-brands fa-youtube text-lg" />
               </a>
-              <a href="#" aria-label="Facebook" className="text-white/50 hover:text-gold transition-colors">
-                <i className="fa-brands fa-facebook-f text-lg" />
-              </a>
-              <a href="https://www.instagram.com/guestnewzealand/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-white/50 hover:text-gold transition-colors">
+              <a href="https://www.instagram.com/guestnz/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-white/50 hover:text-gold transition-colors">
                 <i className="fa-brands fa-instagram text-lg" />
               </a>
               <a href="https://nz.linkedin.com/in/michaelnees" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-white/50 hover:text-gold transition-colors">

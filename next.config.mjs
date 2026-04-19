@@ -44,12 +44,22 @@ const nextConfig = {
       },
       {
         source: "/blog",
-        destination: "/new-zealand-travel-blogs",
+        destination: "/new-zealand-travel-blog",
         permanent: true,
       },
       {
         source: "/blog/:slug",
-        destination: "/new-zealand-travel-blogs/:slug",
+        destination: "/:slug",
+        permanent: true,
+      },
+      {
+        source: "/new-zealand-travel-blogs",
+        destination: "/new-zealand-travel-blog",
+        permanent: true,
+      },
+      {
+        source: "/new-zealand-travel-blogs/:slug",
+        destination: "/:slug",
         permanent: true,
       },
     ];

@@ -8,8 +8,8 @@ export default function PageHeader({ children }: PageHeaderProps) {
   return (
     <section className="relative bg-dark text-white py-16">
       <Image
-        src="/images/hero-reef.jpg"
-        alt="Great Barrier Reef aerial view"
+        src="/images/hero-nz.jpg"
+        alt="Iconic New Zealand landscape"
         fill
         priority
         className="object-cover"
