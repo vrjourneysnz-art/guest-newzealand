@@ -19,8 +19,10 @@ const nextConfig = {
       // Live guestnewzealand.com legacy category slugs -> new unified slugs (SEO preservation)
       { source: "/itineraries/natures-best-new-zealand", destination: "/itineraries/lifestyle-and-nature", permanent: true },
       { source: "/itineraries/natures-best-new-zealand/:slug", destination: "/itineraries/lifestyle-and-nature/:slug", permanent: true },
-      { source: "/itineraries/unique-new-zealand", destination: "/itineraries/lifestyle-and-nature", permanent: true },
-      { source: "/itineraries/unique-new-zealand/:slug", destination: "/itineraries/lifestyle-and-nature/:slug", permanent: true },
+      { source: "/itineraries/unique-new-zealand", destination: "/itineraries/unique-travel-new-zealand", permanent: true },
+      { source: "/itineraries/unique-new-zealand/:slug", destination: "/itineraries/unique-travel-new-zealand/:slug", permanent: true },
+      { source: "/itinerary-categories/unique-new-zealand", destination: "/itineraries/unique-travel-new-zealand", permanent: true },
+      { source: "/itinerary-categories/unique-new-zealand/:slug", destination: "/itineraries/unique-travel-new-zealand/:slug", permanent: true },
       { source: "/itineraries/fiji", destination: "/itineraries/australia-and-new-zealand", permanent: true },
       { source: "/itineraries/fiji/:slug", destination: "/itineraries/australia-and-new-zealand/:slug", permanent: true },
       { source: "/itineraries/australia", destination: "/itineraries/australia-and-new-zealand", permanent: true },

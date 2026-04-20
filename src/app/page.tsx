@@ -53,6 +53,14 @@ const categories = [
     alt: "Milford Sound fiordland, South Island New Zealand",
   },
   {
+    title: "Unique Travel NZ",
+    description: "Off-the-beaten-path themed journeys",
+    href: "/itineraries/unique-travel-new-zealand",
+    icon: "fa-compass",
+    image: "/images/itineraries/new-zealand-lotr-locations.jpg",
+    alt: "Unique New Zealand travel experiences",
+  },
+  {
     title: "NZ & Australia",
     description: "The ultimate trans-Tasman adventure",
     href: "/itineraries/australia-and-new-zealand",

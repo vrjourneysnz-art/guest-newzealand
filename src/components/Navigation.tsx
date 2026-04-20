@@ -9,6 +9,7 @@ const itineraryDropdown = [
   { label: "Honeymoon Packages", href: "/itineraries/honeymoon-packages-new-zealand" },
   { label: "Family Holidays", href: "/itineraries/family-friendly-holidays" },
   { label: "South Island", href: "/itineraries/south-island-travel-itineraries" },
+  { label: "Unique Travel NZ", href: "/itineraries/unique-travel-new-zealand" },
   { label: "NZ & Australia", href: "/itineraries/australia-and-new-zealand" },
 ];
 

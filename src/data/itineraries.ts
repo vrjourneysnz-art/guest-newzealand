@@ -93,8 +93,8 @@ export const itineraries: Itinerary[] = [
     slug: "12-days-north-island-new-zealand",
     title: "12 Days North Islands Hidden Treasures",
     duration: "12 Days",
-    category: "Lifestyle & Nature",
-    categorySlug: "lifestyle-and-nature",
+    category: "Unique Travel NZ",
+    categorySlug: "unique-travel-new-zealand",
     intro: `The North Islands Hidden Treasures itinerary is designed for travellers wanting to get away from standard tourism routes. Exploring authentic New Zealand.`,
     highlights: [
       "Explore Auckland",
@@ -172,8 +172,8 @@ export const itineraries: Itinerary[] = [
     slug: "12-days-south-island-hidden-treasures",
     title: "12 Days South Island Hidden Treasures",
     duration: "12 Days",
-    category: "Lifestyle & Nature",
-    categorySlug: "lifestyle-and-nature",
+    category: "Unique Travel NZ",
+    categorySlug: "unique-travel-new-zealand",
     intro: `The South Islands Hidden Treasures itinerary gets travellers in touch with authentic, unexplored New Zealand. Remoter locations and real people are the key!`,
     highlights: [
       "Explore Akaroa",
@@ -250,8 +250,8 @@ export const itineraries: Itinerary[] = [
     slug: "14-days-golfing-new-zealand",
     title: "14 Days Golfing New Zealand",
     duration: "14 Days",
-    category: "Lifestyle & Nature",
-    categorySlug: "lifestyle-and-nature",
+    category: "Unique Travel NZ",
+    categorySlug: "unique-travel-new-zealand",
     intro: `Play the best Golf courses in New Zealand with this 14 days golfing New Zealand itinerary. Discover the North and South Island's most scenic spots.`,
     highlights: [
       "Explore Auckland",
@@ -644,8 +644,8 @@ export const itineraries: Itinerary[] = [
     slug: "new-zealand-lotr-locations",
     title: "New Zealand LOTR Locations",
     duration: "16 Days",
-    category: "Lifestyle & Nature",
-    categorySlug: "lifestyle-and-nature",
+    category: "Unique Travel NZ",
+    categorySlug: "unique-travel-new-zealand",
     intro: `Overall there are 23 main New Zealand LOTR filming locations. Some of the key sights such as Hobbiton Village, the Dart River and Skippers Canyon areas are easily discovered. For other sites it's best to join a local tour guide to get the full benefit of those sights.`,
     highlights: [
       "Explore Auckland",
@@ -2075,7 +2075,7 @@ export const categories = [
   {
     slug: "lifestyle-and-nature",
     title: "Lifestyle & Nature",
-    description: "Curated experiences blending lifestyle travel with New Zealand's natural wonders — scenic routes, hiking, fine dining, unique cultural stops.",
+    description: "Curated experiences blending lifestyle travel with New Zealand's natural wonders — scenic routes, hiking, fine dining, and refined stops.",
   },
   {
     slug: "honeymoon-packages-new-zealand",
@@ -2091,6 +2091,11 @@ export const categories = [
     slug: "south-island-travel-itineraries",
     title: "South Island",
     description: "The full South Island experience — Queenstown, Milford, Aoraki/Mt Cook, West Coast, Catlins.",
+  },
+  {
+    slug: "unique-travel-new-zealand",
+    title: "Unique Travel NZ",
+    description: "Off-the-beaten-path New Zealand — LOTR locations, North Island hidden treasures, golf tours, and themed adventures.",
   },
   {
     slug: "australia-and-new-zealand",

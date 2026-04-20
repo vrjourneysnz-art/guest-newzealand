@@ -17,7 +17,7 @@ export default function ItinerariesPage() {
           New Zealand Travel Itineraries
         </h1>
         <p className="text-white/70 text-lg max-w-2xl mx-auto">
-          Explore our expertly crafted itineraries across five themes. Each trip is fully
+          Explore our expertly crafted itineraries across six themes. Each trip is fully
           customisable to suit your travel style and preferences.
         </p>
       </PageHeader>
