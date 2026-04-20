@@ -71,7 +71,7 @@ const categories = [
 ];
 
 const steps = [
-  { number: "1", title: "View Itineraries", description: "Browse our curated collection of New Zealand travel itineraries across all holiday types.", icon: "fa-map", href: "/itineraries" },
+  { number: "1", title: "View Itineraries", description: "Browse our curated collection of New Zealand travel itineraries across all holiday types.", icon: "fa-map", href: "/new-zealand-travel-itineraries" },
   { number: "2", title: "Travel Planning Service", description: "Schedule a time to talk with Michael.", icon: "fa-calendar-check", href: "/travel-planning" },
   { number: "3", title: "Receive Your Plan", description: "Get your personalised travel itinerary template.", icon: "fa-file-lines", href: "" },
 ];
@@ -99,7 +99,7 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/itineraries"
+              href="/new-zealand-travel-itineraries"
               className="bg-sage text-white px-8 py-3 rounded text-lg font-semibold hover:bg-sage-dark transition-colors"
             >
               View Itineraries

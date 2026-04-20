@@ -2,6 +2,9 @@
 const nextConfig = {
   async redirects() {
     return [
+      // Itineraries index moved to match live URL
+      { source: "/itineraries", destination: "/new-zealand-travel-itineraries", permanent: true },
+
       // Short-slug shortcuts -> full category routes
       { source: "/itineraries/lifestyle", destination: "/itineraries/lifestyle-and-nature", permanent: true },
       { source: "/itineraries/lifestyle/:slug", destination: "/itineraries/lifestyle-and-nature/:slug", permanent: true },

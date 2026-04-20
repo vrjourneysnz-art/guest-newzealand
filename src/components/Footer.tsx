@@ -23,7 +23,7 @@ export default function Footer() {
             <h4 className="font-bold mb-3 text-gold text-sm uppercase tracking-wider">Quick Links</h4>
             <ul className="space-y-2 text-sm text-white/70">
               <li><Link href="/" className="hover:text-gold transition-colors">Home</Link></li>
-              <li><Link href="/itineraries" className="hover:text-gold transition-colors">Itineraries</Link></li>
+              <li><Link href="/new-zealand-travel-itineraries" className="hover:text-gold transition-colors">Itineraries</Link></li>
               <li><Link href="/travel-planning" className="hover:text-gold transition-colors">Travel Planning</Link></li>
               <li><Link href="/travel-information" className="hover:text-gold transition-colors">Travel Information</Link></li>
               <li><Link href="/new-zealand-travel-blog" className="hover:text-gold transition-colors">Blog</Link></li>

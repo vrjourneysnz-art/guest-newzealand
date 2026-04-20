@@ -46,7 +46,7 @@ export default function Navigation() {
               onMouseLeave={() => setDropdownOpen(false)}
             >
               <Link
-                href="/itineraries"
+                href="/new-zealand-travel-itineraries"
                 className="text-dark hover:text-sage transition-colors flex items-center gap-1 text-sm font-semibold"
               >
                 Itineraries
@@ -111,7 +111,7 @@ export default function Navigation() {
               Home
             </Link>
             <Link
-              href="/itineraries"
+              href="/new-zealand-travel-itineraries"
               className="block py-2.5 text-dark hover:text-sage transition-colors font-semibold"
               onClick={() => setMobileOpen(false)}
             >
