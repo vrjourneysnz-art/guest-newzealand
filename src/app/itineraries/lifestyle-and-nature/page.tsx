@@ -4,18 +4,18 @@ import ItineraryCard from "@/components/ItineraryCard";
 import PageHeader from "@/components/PageHeader";
 
 export const metadata: Metadata = {
-  title: "Honeymoon Packages New Zealand | Guest New Zealand",
-  description: "Romantic New Zealand honeymoon packages — luxury lodges, private experiences, and breathtaking destinations for couples.",
+  title: "Lifestyle & Nature Itineraries New Zealand | Guest New Zealand",
+  description: "Curated New Zealand itineraries blending lifestyle travel with natural wonders — fiords, forests, hiking trails, and scenic wine country.",
 };
 
-export default function HoneymoonPage() {
-  const items = getItinerariesByCategory("honeymoon-packages-new-zealand");
+export default function LifestyleNaturePage() {
+  const items = getItinerariesByCategory("lifestyle-and-nature");
   return (
     <>
       <PageHeader>
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">Honeymoon Packages</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">Lifestyle & Nature</h1>
         <p className="text-white/70 text-lg max-w-2xl mx-auto">
-          Romantic New Zealand escapes designed for couples — luxury, intimacy, and unforgettable moments.
+          Curated experiences for travellers who want New Zealand at its most natural and refined — scenic routes, hiking, fine dining, and unique cultural stops.
         </p>
       </PageHeader>
       <section className="py-16 bg-sage-light">

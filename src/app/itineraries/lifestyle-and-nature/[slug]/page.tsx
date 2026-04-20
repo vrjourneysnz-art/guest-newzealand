@@ -8,11 +8,11 @@ interface Props {
 }
 
 export function generateStaticParams() {
-  return getItinerariesByCategory("honeymoon-packages-new-zealand").map((i) => ({ slug: i.slug }));
+  return getItinerariesByCategory("lifestyle-and-nature").map((i) => ({ slug: i.slug }));
 }
 
 export function generateMetadata({ params }: Props): Metadata {
-  const itinerary = getItinerary("honeymoon-packages-new-zealand", params.slug);
+  const itinerary = getItinerary("lifestyle-and-nature", params.slug);
   if (!itinerary) return {};
   return {
     title: `${itinerary.title} | Guest New Zealand`,
@@ -20,8 +20,8 @@ export function generateMetadata({ params }: Props): Metadata {
   };
 }
 
-export default function HoneymoonItineraryPage({ params }: Props) {
-  const itinerary = getItinerary("honeymoon-packages-new-zealand", params.slug);
+export default function LifestyleNatureItineraryPage({ params }: Props) {
+  const itinerary = getItinerary("lifestyle-and-nature", params.slug);
   if (!itinerary) notFound();
   return <ItineraryDetail itinerary={itinerary} />;
 }

@@ -21,28 +21,44 @@ const testimonials = [
 
 const categories = [
   {
-    title: "Honeymoon New Zealand",
+    title: "Lifestyle & Nature",
+    description: "Scenic routes, hiking, and refined experiences",
+    href: "/itineraries/lifestyle-and-nature",
+    icon: "fa-mountain-sun",
+    image: "/images/lifestyle-nz.jpg",
+    alt: "Tongariro emerald lakes, New Zealand",
+  },
+  {
+    title: "Honeymoon Packages",
     description: "Romantic escapes for couples",
     href: "/itineraries/honeymoon-packages-new-zealand",
     icon: "fa-heart",
     image: "/images/honeymoon-nz.jpg",
-    alt: "Romantic New Zealand honeymoon lodge setting",
-  },
-  {
-    title: "Lifestyle Holidays",
-    description: "Curated premium experiences",
-    href: "/itineraries/new-zealand-lifestyle-holidays",
-    icon: "fa-sun",
-    image: "/images/lifestyle-nz.jpg",
-    alt: "New Zealand lifestyle travel experience",
+    alt: "Romantic New Zealand coastal sunset",
   },
   {
     title: "Family Holidays",
     description: "Adventures for all ages",
-    href: "/itineraries/family-holiday-new-zealand",
+    href: "/itineraries/family-friendly-holidays",
     icon: "fa-users",
     image: "/images/family-nz.jpg",
-    alt: "New Zealand family travel adventure",
+    alt: "New Zealand family jet-boat adventure",
+  },
+  {
+    title: "South Island",
+    description: "Alpine lakes, fiords, and glaciers",
+    href: "/itineraries/south-island-travel-itineraries",
+    icon: "fa-snowflake",
+    image: "/images/hero-nz.jpg",
+    alt: "Milford Sound fiordland, South Island New Zealand",
+  },
+  {
+    title: "NZ & Australia",
+    description: "The ultimate trans-Tasman adventure",
+    href: "/itineraries/australia-and-new-zealand",
+    icon: "fa-plane",
+    image: "/images/blog/new-zealand-and-australia-trip.jpg",
+    alt: "Combined New Zealand and Australia travel itinerary",
   },
 ];
 

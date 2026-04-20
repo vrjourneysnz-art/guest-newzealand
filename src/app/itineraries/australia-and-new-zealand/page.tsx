@@ -4,18 +4,18 @@ import ItineraryCard from "@/components/ItineraryCard";
 import PageHeader from "@/components/PageHeader";
 
 export const metadata: Metadata = {
-  title: "Honeymoon Packages New Zealand | Guest New Zealand",
-  description: "Romantic New Zealand honeymoon packages — luxury lodges, private experiences, and breathtaking destinations for couples.",
+  title: "New Zealand & Australia Itineraries | Guest New Zealand",
+  description: "Combined New Zealand and Australia travel itineraries — experience the best of both countries in one incredible journey.",
 };
 
-export default function HoneymoonPage() {
-  const items = getItinerariesByCategory("honeymoon-packages-new-zealand");
+export default function AustraliaNzPage() {
+  const items = getItinerariesByCategory("australia-and-new-zealand");
   return (
     <>
       <PageHeader>
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">Honeymoon Packages</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">New Zealand & Australia</h1>
         <p className="text-white/70 text-lg max-w-2xl mx-auto">
-          Romantic New Zealand escapes designed for couples — luxury, intimacy, and unforgettable moments.
+          Combined itineraries covering the best of both New Zealand and Australia — the ultimate South Pacific adventure.
         </p>
       </PageHeader>
       <section className="py-16 bg-sage-light">

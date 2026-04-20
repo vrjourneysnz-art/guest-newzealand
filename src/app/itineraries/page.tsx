@@ -6,7 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "New Zealand Travel Itineraries | Guest New Zealand",
   description:
-    "Browse our curated collection of New Zealand travel itineraries — lifestyle holidays, family adventures, honeymoon packages, and combined New Zealand & Australia trips.",
+    "Browse our curated collection of New Zealand travel itineraries — lifestyle & nature, honeymoon, family, South Island, and combined New Zealand & Australia trips.",
 };
 
 export default function ItinerariesPage() {
@@ -17,7 +17,7 @@ export default function ItinerariesPage() {
           New Zealand Travel Itineraries
         </h1>
         <p className="text-white/70 text-lg max-w-2xl mx-auto">
-          Explore our expertly crafted itineraries across four categories. Each trip is fully
+          Explore our expertly crafted itineraries across five themes. Each trip is fully
           customisable to suit your travel style and preferences.
         </p>
       </PageHeader>

@@ -4,18 +4,18 @@ import ItineraryCard from "@/components/ItineraryCard";
 import PageHeader from "@/components/PageHeader";
 
 export const metadata: Metadata = {
-  title: "Honeymoon Packages New Zealand | Guest New Zealand",
-  description: "Romantic New Zealand honeymoon packages — luxury lodges, private experiences, and breathtaking destinations for couples.",
+  title: "South Island Travel Itineraries | Guest New Zealand",
+  description: "South Island New Zealand itineraries — alpine lakes, fiords, glaciers, and wine country. From 10-day samplers to 18-day deep dives.",
 };
 
-export default function HoneymoonPage() {
-  const items = getItinerariesByCategory("honeymoon-packages-new-zealand");
+export default function SouthIslandPage() {
+  const items = getItinerariesByCategory("south-island-travel-itineraries");
   return (
     <>
       <PageHeader>
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">Honeymoon Packages</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">South Island Travel Itineraries</h1>
         <p className="text-white/70 text-lg max-w-2xl mx-auto">
-          Romantic New Zealand escapes designed for couples — luxury, intimacy, and unforgettable moments.
+          The full South Island experience — Queenstown, Milford, Aoraki/Mt Cook, the West Coast, and the Catlins.
         </p>
       </PageHeader>
       <section className="py-16 bg-sage-light">
