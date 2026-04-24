@@ -46,6 +46,19 @@ const nextConfig = {
       { source: "/blog/:slug", destination: "/:slug", permanent: true },
       { source: "/new-zealand-travel-blogs", destination: "/new-zealand-travel-blog", permanent: true },
       { source: "/new-zealand-travel-blogs/:slug", destination: "/:slug", permanent: true },
+
+      // Travel Information sub-pages — common legacy/alternative slugs
+      { source: "/travel-information/helpful-travel-tips", destination: "/travel-information/travel-tips", permanent: true },
+      { source: "/travel-information/visiting-places-new-zealand", destination: "/travel-information/places-new-zealand", permanent: true },
+      { source: "/travel-information/new-zealand-holiday-planning", destination: "/travel-planning", permanent: true },
+      { source: "/travel-information/new-zealand-maps", destination: "/travel-information/detailed-new-zealand-maps", permanent: true },
+      { source: "/travel-information/travel-distances", destination: "/travel-information/new-zealand-travel-distances", permanent: true },
+      { source: "/travel-information/travel-providers", destination: "/travel-information/boutique-travel-providers", permanent: true },
+
+      // About-Us legacy paths
+      { source: "/about-us", destination: "/", permanent: true },
+      { source: "/about-us/holiday-planning-new-zealand", destination: "/travel-planning", permanent: true },
+      { source: "/about-us/driver-guide", destination: "/about-us/personal-new-zealand-driver-guide", permanent: true },
     ];
   },
 };

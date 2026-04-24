@@ -16,9 +16,33 @@ const sections = [
   },
   {
     title: "Visiting Places in New Zealand",
-    description: "Discover New Zealand's most iconic destinations — from Sydney's harbour to the tropical reefs of Queensland and the red centre of Uluru.",
+    description: "Discover New Zealand's most iconic regions — from the Bay of Islands and Coromandel in the north to Queenstown, Fiordland and the West Coast.",
     href: "/travel-information/places-new-zealand",
     icon: "fa-map-location-dot",
+  },
+  {
+    title: "Detailed New Zealand Maps",
+    description: "Downloadable PDF maps of the North and South Islands plus tips on using Google Maps realistically for your NZ trip.",
+    href: "/travel-information/detailed-new-zealand-maps",
+    icon: "fa-map",
+  },
+  {
+    title: "New Zealand Travel Distances",
+    description: "Distance charts and realistic drive-time guidance so your road trip stays on schedule — including warnings for the windy bits.",
+    href: "/travel-information/new-zealand-travel-distances",
+    icon: "fa-route",
+  },
+  {
+    title: "Boutique Travel Providers",
+    description: "Hand-picked accommodation, owner-operated tours and trusted travel resources — every provider personally visited and vetted.",
+    href: "/travel-information/boutique-travel-providers",
+    icon: "fa-award",
+  },
+  {
+    title: "Personal NZ Driver Guide",
+    description: "Private, individually tailored driver-guide service throughout New Zealand — 3 to 14 day bookings with German, French and English-speaking drivers.",
+    href: "/about-us/personal-new-zealand-driver-guide",
+    icon: "fa-id-badge",
   },
 ];
 
@@ -33,8 +57,8 @@ export default function TravelInformationPage() {
       </PageHeader>
 
       <section className="py-16 bg-sage-light">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {sections.map((s) => (
               <Link
                 key={s.href}
