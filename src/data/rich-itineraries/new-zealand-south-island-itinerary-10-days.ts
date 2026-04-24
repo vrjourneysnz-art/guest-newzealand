@@ -18,7 +18,7 @@ export const newZealandSouthIslandItinerary10Days: RichItinerary = {
     "Explore Fox Glacier",
     "Explore Wanaka"
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempSouth10Days",
   days: [
     {
       day: 1,

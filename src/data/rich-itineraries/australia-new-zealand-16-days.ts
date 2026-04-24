@@ -20,7 +20,7 @@ export const australiaNewZealand16Days: RichItinerary = {
     "Take a 'must do' Milford Sound scenic cruise, combined with a Milford Track day tour.",
     "Enjoy an exhilarating jet-boat ride up the Dart River - guided by the locals."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempAusNZ3Weeks",
   days: [
     {
       day: 1,

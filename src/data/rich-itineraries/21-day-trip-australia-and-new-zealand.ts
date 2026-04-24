@@ -18,7 +18,7 @@ export const itin21DayTripAustraliaAndNewZealand: RichItinerary = {
     "Jet-boat up the Matukituki River into the Mt. Aspiring NP.",
     "Kayak, Walk and cruise the Abel Tasman National Park."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempAusNZ3Weeks",
   days: [
     {
       day: 1,

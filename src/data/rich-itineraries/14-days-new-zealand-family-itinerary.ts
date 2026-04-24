@@ -20,7 +20,7 @@ export const itin14DaysNewZealandFamilyItinerary: RichItinerary = {
     "Fly by helicopter to the top of a NZ glacier - see a snow-covered Alpine world.",
     "Kick back and relax on a scenic coast-to-coast TranzAlpine train journey."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempFamily14NS",
   days: [
     {
       day: 1,

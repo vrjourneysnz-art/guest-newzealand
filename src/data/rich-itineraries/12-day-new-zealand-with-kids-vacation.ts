@@ -19,7 +19,7 @@ export const itin12DayNewZealandWithKidsVacation: RichItinerary = {
     "Take a fun jet boat ride into the Mt. Aspiring National Park to LOTR sites.",
     "Family friendly guided kayaking tour in the pristine Abel Tasman NP."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempSouthFam14Days",
   days: [
     {
       day: 1,

@@ -19,7 +19,7 @@ export const itin14DaysHoneymoonPackageNz: RichItinerary = {
     "Take a thrilling jet boat ride at Shotover Canyon near Queenstown.",
     "Walk the beautiful Kepler Track in Fiordland National Park."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempNZ14Honeymoon",
   days: [
     {
       day: 1,

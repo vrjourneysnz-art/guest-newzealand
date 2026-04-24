@@ -18,7 +18,7 @@ export const itin10DaysNewZealandFamilyVacation: RichItinerary = {
     "Go on a child-friendly guided kayaking in the beautiful Abel Tasman National Park.",
     "Fly over the Southern Alps glaciers and land on the snow field below Mt. Cook."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempFamily10NS",
   days: [
     {
       day: 1,

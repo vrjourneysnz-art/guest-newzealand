@@ -18,7 +18,7 @@ export const itin12DaysNewZealandSouthIslandItinerary: RichItinerary = {
     "Explore Queenstown",
     "Explore Fox Glacier"
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempSouth12Days",
   days: [
     {
       day: 1,

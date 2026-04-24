@@ -18,7 +18,7 @@ export const itin18DaysSouthIslandTravelItinerary: RichItinerary = {
     "Explore Wanaka",
     "Explore Franz Josef"
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempSouth14Days",
   days: [
     {
       day: 1,

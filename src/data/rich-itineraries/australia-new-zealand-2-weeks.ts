@@ -20,7 +20,7 @@ export const australiaNewZealand2Weeks: RichItinerary = {
     "Explore NZ's Fox Glacier and Abel Tasman's wildlife in their natural habitat.",
     "Visit a White Heron colony near Whataroa. A memorable nature experience."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempAusNZ3Weeks",
   days: [
     {
       day: 1,

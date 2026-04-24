@@ -18,7 +18,7 @@ export const itin12DaysSouthIslandFamilyHoliday: RichItinerary = {
     "Walk through native rain forest, pristine beaches and lagoons of the West Coast.",
     "Discover the whales of Kaikoura or maybe even swim with dolphins!"
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempFamily12NS",
   days: [
     {
       day: 1,

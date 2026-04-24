@@ -20,7 +20,7 @@ export const itin18DayNewZealandItinerary: RichItinerary = {
     "Nature walk and boat transfer with a local guide on Wanaka's remote island.",
     "Jet-boating into the West Matukituki Valley, Mt Aspiring National Park."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempNZ21NorthSouth",
   days: [
     {
       day: 1,

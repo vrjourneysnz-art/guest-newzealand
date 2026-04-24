@@ -18,7 +18,7 @@ export const itin12DaysNorthIslandNewZealand: RichItinerary = {
     "Explore New Plymouth",
     "Explore Waikato"
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempNorth10Days",
   days: [
     {
       day: 1,

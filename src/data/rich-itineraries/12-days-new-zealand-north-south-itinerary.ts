@@ -17,7 +17,7 @@ export const itin12DaysNewZealandNorthSouthItinerary: RichItinerary = {
     "Jet-boat on the Dart River and join a guided walk through a LOTR filming area.",
     "Travel on the TranzAlpine Rail Journey between the West Coast and Christchurch."
   ],
-  downloadLink: "https://geni.us/NZTravelPlanner",
+  downloadLink: "https://geni.us/TempNZ14NorthSouth",
   days: [
     {
       day: 1,
