@@ -123,13 +123,6 @@ export default function PersonalDriverGuidePage() {
               >
                 Plan My Trip
               </Link>
-              <a
-                href="tel:+6421629498"
-                className="inline-block border border-white text-white px-6 py-3 rounded font-semibold hover:bg-white hover:text-sage transition-colors"
-              >
-                <i className="fa-solid fa-phone text-sm mr-2" />
-                +64 21 629 498
-              </a>
             </div>
           </div>
         </div>
