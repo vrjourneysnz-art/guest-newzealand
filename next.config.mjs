@@ -59,6 +59,26 @@ const nextConfig = {
       { source: "/about-us", destination: "/", permanent: true },
       { source: "/about-us/holiday-planning-new-zealand", destination: "/travel-planning", permanent: true },
       { source: "/about-us/driver-guide", destination: "/about-us/personal-new-zealand-driver-guide", permanent: true },
+
+      // Legacy WordPress XML sitemap URLs → the new Next.js sitemap
+      { source: "/sitemap_index.xml", destination: "/sitemap.xml", permanent: true },
+      { source: "/page-sitemap.xml", destination: "/sitemap.xml", permanent: true },
+      { source: "/post-sitemap.xml", destination: "/sitemap.xml", permanent: true },
+      { source: "/category-sitemap.xml", destination: "/sitemap.xml", permanent: true },
+      { source: "/itinerary-sitemap.xml", destination: "/sitemap.xml", permanent: true },
+
+      // Common legacy WordPress / contact-form paths
+      { source: "/customised-itinerary-quote", destination: "/travel-planning", permanent: true },
+      { source: "/contact", destination: "/travel-planning", permanent: true },
+      { source: "/contact-us", destination: "/travel-planning", permanent: true },
+      { source: "/terms", destination: "/", permanent: true },
+
+      // WordPress trailing-slash author/feed URLs that crawlers may probe
+      { source: "/feed", destination: "/", permanent: true },
+      { source: "/feed/:path*", destination: "/", permanent: true },
+      { source: "/author/:path*", destination: "/", permanent: true },
+      { source: "/category/:path*", destination: "/new-zealand-travel-blog", permanent: true },
+      { source: "/tag/:path*", destination: "/new-zealand-travel-blog", permanent: true },
     ];
   },
 };
