@@ -3,11 +3,17 @@ import type { Metadata } from "next";
 import { getItinerary, getItinerariesByCategory } from "@/data/itineraries";
 import ItineraryDetail from "@/components/ItineraryDetail";
 import RichItineraryDetail from "@/components/RichItineraryDetail";
-import { lifestyle12DayNorthSouth } from "@/data/rich-itineraries/12-day-north-south";
 import type { RichItinerary } from "@/data/rich-itineraries/types";
+import { itin12DaysNewZealandNorthSouthItinerary } from "@/data/rich-itineraries/12-days-new-zealand-north-south-itinerary";
+import { itin15DayNewZealandPurePlacesVisit } from "@/data/rich-itineraries/15-day-new-zealand-pure-places-visit";
+import { itin16DayNewZealandHikingTrip } from "@/data/rich-itineraries/16-day-new-zealand-hiking-trip";
+import { itin18DayNewZealandItinerary } from "@/data/rich-itineraries/18-day-new-zealand-itinerary";
 
 const richItineraries: Record<string, RichItinerary> = {
-  [lifestyle12DayNorthSouth.slug]: lifestyle12DayNorthSouth,
+  [itin12DaysNewZealandNorthSouthItinerary.slug]: itin12DaysNewZealandNorthSouthItinerary,
+  [itin15DayNewZealandPurePlacesVisit.slug]: itin15DayNewZealandPurePlacesVisit,
+  [itin16DayNewZealandHikingTrip.slug]: itin16DayNewZealandHikingTrip,
+  [itin18DayNewZealandItinerary.slug]: itin18DayNewZealandItinerary,
 };
 
 interface Props {
@@ -49,7 +55,7 @@ export function generateMetadata({ params }: Props): Metadata {
   };
 }
 
-export default function LifestyleNatureItineraryPage({ params }: Props) {
+export default function LifestyleAndNatureItineraryPage({ params }: Props) {
   const rich = richItineraries[params.slug];
   if (rich) {
     return <RichItineraryDetail itinerary={rich} />;
