@@ -4,19 +4,86 @@ import PageHeader from "@/components/PageHeader";
 
 export const metadata: Metadata = {
   title: "Visiting Places in New Zealand | Guest New Zealand",
-  description: "Discover New Zealand's most iconic destinations — Sydney, Melbourne, Queensland, Uluru, Tasmania, and Western New Zealand.",
+  description:
+    "Discover New Zealand's most iconic regions — from the Bay of Islands and Rotorua in the north to Queenstown, Fiordland, and the West Coast glaciers in the south.",
 };
 
 const places = [
-  { name: "Sydney", region: "New South Wales", description: "New Zealand's most iconic city — home to the Opera House, Harbour Bridge, Bondi Beach, and a vibrant food and cultural scene." },
-  { name: "Melbourne", region: "Victoria", description: "New Zealand's cultural capital, famous for its laneways, coffee culture, world-class restaurants, street art, and the Great Ocean Road." },
-  { name: "Queensland", region: "Tropical North & Gold Coast", description: "From the Great Barrier Reef and Daintree Rainforest to the sunny Gold Coast beaches and theme parks." },
-  { name: "Uluru", region: "Northern Territory", description: "The spiritual heart of New Zealand. Ancient red rock formations, stunning sunsets, and Indigenous culture." },
-  { name: "Tasmania", region: "Island State", description: "Wild and pristine — world-heritage wilderness, gourmet food and wine, colonial heritage, and unique wildlife." },
-  { name: "Western New Zealand", region: "Perth & Beyond", description: "From Perth's sun-drenched beaches to the stunning Kimberley region, Ningaloo Reef, and the ancient Pinnacles." },
+  {
+    name: "Auckland",
+    region: "North Island — Gateway City",
+    description:
+      "New Zealand's largest city, framed by two harbours and 48 volcanic cones. Waiheke Island wineries, Hauraki Gulf islands, west coast surf beaches, and a strong food and coffee scene.",
+  },
+  {
+    name: "Bay of Islands",
+    region: "Northland",
+    description:
+      "Subtropical waters dotted with 144 islands. Sailing, dolphin swimming, deep-sea fishing, and the birthplace of modern New Zealand at Waitangi. Warm beaches all summer.",
+  },
+  {
+    name: "Coromandel",
+    region: "North Island — East Coast",
+    description:
+      "White-sand beaches, Cathedral Cove, the famous Hot Water Beach, and gentle bush walks. A favourite holiday region for locals — best explored slowly with a rental car.",
+  },
+  {
+    name: "Rotorua & Taupō",
+    region: "Central North Island",
+    description:
+      "Geothermal wonderland — geysers, mud pools, hot springs, and rich Māori culture. Lake Taupō (a collapsed super-volcano) sits at the centre of the island, ringed by trout streams.",
+  },
+  {
+    name: "Wellington",
+    region: "Lower North Island — Capital",
+    description:
+      "Compact, walkable capital famous for craft coffee, world-class restaurants, Te Papa museum, and the Weta Workshop film studios. Gateway to the Cook Strait ferry crossing.",
+  },
+  {
+    name: "Nelson & Marlborough",
+    region: "Top of the South Island",
+    description:
+      "Sun-drenched corner of NZ — Abel Tasman National Park's golden coves, the Marlborough Sounds by water taxi, and the Sauvignon Blanc wineries that put NZ wine on the map.",
+  },
+  {
+    name: "West Coast Glaciers",
+    region: "South Island — West Coast",
+    description:
+      "Wild, untamed coastline. Franz Josef and Fox Glaciers descend from the Southern Alps almost to sea level — heli-hike on the ice, then walk through ancient rainforest the same afternoon.",
+  },
+  {
+    name: "Christchurch & Canterbury",
+    region: "South Island — East Coast",
+    description:
+      "The 'Garden City' is the South Island's main hub. Gateway to the TranzAlpine train, Akaroa harbour, the Banks Peninsula, and the road north to whale-watching at Kaikōura.",
+  },
+  {
+    name: "Mt Cook & Mackenzie",
+    region: "South Island — Alpine Heart",
+    description:
+      "New Zealand's highest peak rises above turquoise glacial lakes Pukaki and Tekapo. A certified International Dark Sky Reserve — among the best stargazing on the planet.",
+  },
+  {
+    name: "Queenstown & Wānaka",
+    region: "South Island — Southern Lakes",
+    description:
+      "The adventure capital. Bungy jumping, jet boats, and luge by day; lakeside dining and Central Otago Pinot Noir by night. Wānaka offers the same beauty with a quieter pace.",
+  },
+  {
+    name: "Fiordland",
+    region: "South Island — South-West",
+    description:
+      "Milford Sound, Doubtful Sound, and the Milford Track Great Walk. Sheer rock walls, waterfalls plunging into deep fiords, and some of the wettest, most pristine wilderness on earth.",
+  },
+  {
+    name: "Dunedin & Otago Peninsula",
+    region: "South Island — Lower East",
+    description:
+      "Scottish-heritage university city with the world's steepest street and a wildlife-rich peninsula — royal albatross, yellow-eyed penguins, fur seals, and sea lions all within 30 minutes.",
+  },
 ];
 
-export default function PlacesAustraliaPage() {
+export default function PlacesNewZealandPage() {
   return (
     <>
       <PageHeader>
@@ -25,7 +92,8 @@ export default function PlacesAustraliaPage() {
         </Link>
         <h1 className="text-4xl md:text-5xl font-bold mb-4">Visiting Places in New Zealand</h1>
         <p className="text-white/70 text-lg max-w-2xl mx-auto">
-          Explore the diverse destinations that make New Zealand one of the world&apos;s most exciting countries to visit.
+          From subtropical beaches in the north to the wild fiords of the south — explore the regions that
+          make New Zealand one of the world&apos;s most rewarding countries to travel.
         </p>
       </PageHeader>
 
@@ -33,18 +101,48 @@ export default function PlacesAustraliaPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {places.map((place) => (
-              <div key={place.name} className="bg-white rounded-lg overflow-hidden border border-gray-100">
-                <div className="bg-gradient-to-br from-stone-600 via-amber-800/60 to-stone-700 h-44 flex items-center justify-center relative">
+              <div
+                key={place.name}
+                className="bg-white rounded-lg overflow-hidden border border-gray-100 flex flex-col"
+              >
+                <div className="bg-gradient-to-br from-sage via-sage-dark to-dark h-44 flex items-center justify-center relative">
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
-                  <span className="relative text-3xl font-bold text-white/90">{place.name}</span>
+                  <span className="relative text-2xl md:text-3xl font-bold text-white/95 text-center px-4">
+                    {place.name}
+                  </span>
                 </div>
-                <div className="p-6">
-                  <h3 className="text-xl font-bold text-dark mb-1">{place.name}</h3>
-                  <p className="text-sage text-sm font-semibold mb-3">{place.region}</p>
+                <div className="p-6 flex-1 flex flex-col">
+                  <p className="text-gold text-xs font-semibold uppercase tracking-wide mb-2">
+                    {place.region}
+                  </p>
+                  <h3 className="text-xl font-bold text-dark mb-3">{place.name}</h3>
                   <p className="text-dark/60 text-sm">{place.description}</p>
                 </div>
               </div>
             ))}
+          </div>
+
+          {/* CTA */}
+          <div className="mt-12 bg-sage rounded-lg p-8 text-center text-white max-w-4xl mx-auto">
+            <h2 className="text-2xl font-bold mb-3">Not sure how to fit it all together?</h2>
+            <p className="text-white/85 mb-5">
+              Trying to do too much is the most common NZ planning mistake. We&apos;ll help you build a route
+              that matches the time you actually have — with realistic drive times built in.
+            </p>
+            <div className="flex flex-wrap gap-3 justify-center">
+              <Link
+                href="/travel-planning"
+                className="inline-block bg-white text-sage px-6 py-3 rounded font-semibold hover:bg-gold hover:text-dark transition-colors"
+              >
+                Plan My Trip
+              </Link>
+              <Link
+                href="/new-zealand-travel-itineraries"
+                className="inline-block border border-white text-white px-6 py-3 rounded font-semibold hover:bg-white hover:text-sage transition-colors"
+              >
+                Browse Sample Itineraries
+              </Link>
+            </div>
           </div>
         </div>
       </section>
