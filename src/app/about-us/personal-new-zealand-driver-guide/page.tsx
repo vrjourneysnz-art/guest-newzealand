@@ -102,10 +102,10 @@ export default function PersonalDriverGuidePage() {
                 <i className="fa-solid fa-arrow-right text-xs mr-1" /> Detailed New Zealand maps
               </Link>
               <Link
-                href="/travel-information/boutique-travel-providers"
+                href="/travel-information/new-zealand-travel-distances"
                 className="text-sage font-semibold hover:underline"
               >
-                <i className="fa-solid fa-arrow-right text-xs mr-1" /> Boutique travel providers
+                <i className="fa-solid fa-arrow-right text-xs mr-1" /> New Zealand travel distances
               </Link>
             </div>
           </div>

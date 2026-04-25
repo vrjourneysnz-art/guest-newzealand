@@ -33,12 +33,6 @@ const sections = [
     icon: "fa-route",
   },
   {
-    title: "Boutique Travel Providers",
-    description: "Hand-picked accommodation, owner-operated tours and trusted travel resources — every provider personally visited and vetted.",
-    href: "/travel-information/boutique-travel-providers",
-    icon: "fa-award",
-  },
-  {
     title: "Personal NZ Driver Guide",
     description: "Private, individually tailored driver-guide service throughout New Zealand — 3 to 14 day bookings with German, French and English-speaking drivers.",
     href: "/about-us/personal-new-zealand-driver-guide",

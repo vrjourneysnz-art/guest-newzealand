@@ -53,7 +53,8 @@ const nextConfig = {
       { source: "/travel-information/new-zealand-holiday-planning", destination: "/travel-planning", permanent: true },
       { source: "/travel-information/new-zealand-maps", destination: "/travel-information/detailed-new-zealand-maps", permanent: true },
       { source: "/travel-information/travel-distances", destination: "/travel-information/new-zealand-travel-distances", permanent: true },
-      { source: "/travel-information/travel-providers", destination: "/travel-information/boutique-travel-providers", permanent: true },
+      { source: "/travel-information/travel-providers", destination: "/travel-information", permanent: true },
+      { source: "/travel-information/boutique-travel-providers", destination: "/travel-information", permanent: true },
 
       // About-Us legacy paths
       { source: "/about-us", destination: "/", permanent: true },

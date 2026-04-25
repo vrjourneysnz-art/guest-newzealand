@@ -143,12 +143,6 @@ export default function DetailedNewZealandMapsPage() {
               >
                 <i className="fa-solid fa-arrow-right text-xs mr-1" /> New Zealand travel distances
               </Link>
-              <Link
-                href="/travel-information/boutique-travel-providers"
-                className="text-sage hover:underline font-semibold"
-              >
-                <i className="fa-solid fa-arrow-right text-xs mr-1" /> Boutique service providers we recommend
-              </Link>
             </div>
           </div>
 
