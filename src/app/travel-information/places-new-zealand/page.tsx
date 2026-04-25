@@ -8,14 +8,19 @@ export const metadata: Metadata = {
     "Discover New Zealand's most iconic regions — from the Bay of Islands and Rotorua in the north to Queenstown, Fiordland, and the West Coast glaciers in the south.",
 };
 
+interface RegionLink {
+  label: string;
+  url: string;
+}
+
 interface Place {
   name: string;
   region: string;
   description: string;
   /** Local image path under /public/images/regions/. Falls back to sage gradient if missing. */
   image: string;
-  /** External regional tourism site (opens in a new tab). */
-  link: string;
+  /** One or more external regional tourism sites (each opens in a new tab). */
+  links: RegionLink[];
 }
 
 const places: Place[] = [
@@ -25,7 +30,7 @@ const places: Place[] = [
     description:
       "New Zealand's largest city, framed by two harbours and 48 volcanic cones. Waiheke Island wineries, Hauraki Gulf islands, west coast surf beaches, and a strong food and coffee scene.",
     image: "/images/regions/auckland.jpg",
-    link: "https://www.aucklandnz.com",
+    links: [{ label: "Auckland NZ", url: "https://www.aucklandnz.com" }],
   },
   {
     name: "Bay of Islands",
@@ -33,7 +38,7 @@ const places: Place[] = [
     description:
       "Subtropical waters dotted with 144 islands. Sailing, dolphin swimming, deep-sea fishing, and the birthplace of modern New Zealand at Waitangi. Warm beaches all summer.",
     image: "/images/regions/bay-of-islands.jpg",
-    link: "https://www.newzealand.com/int/northland/",
+    links: [{ label: "Northland NZ", url: "https://www.newzealand.com/int/northland/" }],
   },
   {
     name: "Coromandel",
@@ -41,7 +46,7 @@ const places: Place[] = [
     description:
       "White-sand beaches, Cathedral Cove, the famous Hot Water Beach, and gentle bush walks. A favourite holiday region for locals — best explored slowly with a rental car.",
     image: "/images/regions/coromandel.jpg",
-    link: "https://www.thecoromandel.com/",
+    links: [{ label: "The Coromandel", url: "https://thecoromandel.nz/" }],
   },
   {
     name: "Rotorua & Taupō",
@@ -49,7 +54,10 @@ const places: Place[] = [
     description:
       "Geothermal wonderland — geysers, mud pools, hot springs, and rich Māori culture. Lake Taupō (a collapsed super-volcano) sits at the centre of the island, ringed by trout streams.",
     image: "/images/regions/rotorua-taupo.jpg",
-    link: "https://www.greatlaketaupo.com/",
+    links: [
+      { label: "Rotorua NZ", url: "https://www.rotoruanz.com/" },
+      { label: "Love Taupō", url: "https://www.lovetaupo.com/" },
+    ],
   },
   {
     name: "Wellington",
@@ -57,7 +65,7 @@ const places: Place[] = [
     description:
       "Compact, walkable capital famous for craft coffee, world-class restaurants, Te Papa museum, and the Weta Workshop film studios. Gateway to the Cook Strait ferry crossing.",
     image: "/images/regions/wellington.jpg",
-    link: "https://www.wellingtonnz.com/",
+    links: [{ label: "Wellington NZ", url: "https://www.wellingtonnz.com/" }],
   },
   {
     name: "Nelson & Marlborough",
@@ -65,7 +73,7 @@ const places: Place[] = [
     description:
       "Sun-drenched corner of NZ — Abel Tasman National Park's golden coves, the Marlborough Sounds by water taxi, and the Sauvignon Blanc wineries that put NZ wine on the map.",
     image: "/images/regions/nelson-marlborough.jpg",
-    link: "https://www.nelsontasman.nz/",
+    links: [{ label: "Nelson Tasman", url: "https://www.nelsontasman.nz/" }],
   },
   {
     name: "West Coast Glaciers",
@@ -73,7 +81,7 @@ const places: Place[] = [
     description:
       "Wild, untamed coastline. Franz Josef and Fox Glaciers descend from the Southern Alps almost to sea level — heli-hike on the ice, then walk through ancient rainforest the same afternoon.",
     image: "/images/regions/west-coast-glaciers.jpg",
-    link: "https://www.westcoasttravel.co.nz",
+    links: [{ label: "West Coast NZ", url: "https://westcoast.co.nz/visit/" }],
   },
   {
     name: "Christchurch & Canterbury",
@@ -81,7 +89,7 @@ const places: Place[] = [
     description:
       "The 'Garden City' is the South Island's main hub. Gateway to the TranzAlpine train, Akaroa harbour, the Banks Peninsula, and the road north to whale-watching at Kaikōura.",
     image: "/images/regions/christchurch-canterbury.jpg",
-    link: "https://www.christchurchnz.com/",
+    links: [{ label: "ChristchurchNZ", url: "https://www.christchurchnz.com/" }],
   },
   {
     name: "Mt Cook & Mackenzie",
@@ -89,7 +97,7 @@ const places: Place[] = [
     description:
       "New Zealand's highest peak rises above turquoise glacial lakes Pukaki and Tekapo. A certified International Dark Sky Reserve — among the best stargazing on the planet.",
     image: "/images/regions/mt-cook-mackenzie.jpg",
-    link: "https://mackenzienz.com/",
+    links: [{ label: "Mackenzie NZ", url: "https://mackenzienz.com/" }],
   },
   {
     name: "Queenstown & Wānaka",
@@ -97,7 +105,10 @@ const places: Place[] = [
     description:
       "The adventure capital. Bungy jumping, jet boats, and luge by day; lakeside dining and Central Otago Pinot Noir by night. Wānaka offers the same beauty with a quieter pace.",
     image: "/images/regions/queenstown-wanaka.jpg",
-    link: "https://www.queenstownnz.co.nz/",
+    links: [
+      { label: "Queenstown NZ", url: "https://www.queenstownnz.co.nz/" },
+      { label: "Wānaka NZ", url: "https://www.wanaka.co.nz/" },
+    ],
   },
   {
     name: "Fiordland",
@@ -105,7 +116,7 @@ const places: Place[] = [
     description:
       "Milford Sound, Doubtful Sound, and the Milford Track Great Walk. Sheer rock walls, waterfalls plunging into deep fiords, and some of the wettest, most pristine wilderness on earth.",
     image: "/images/regions/fiordland.jpg",
-    link: "https://www.fiordland.org.nz/",
+    links: [{ label: "Fiordland NZ", url: "https://www.fiordland.org.nz/" }],
   },
   {
     name: "Dunedin & Otago Peninsula",
@@ -113,7 +124,7 @@ const places: Place[] = [
     description:
       "Scottish-heritage university city with the world's steepest street and a wildlife-rich peninsula — royal albatross, yellow-eyed penguins, fur seals, and sea lions all within 30 minutes.",
     image: "/images/regions/dunedin-otago.jpg",
-    link: "https://www.dunedinnz.com/",
+    links: [{ label: "Dunedin NZ", url: "https://www.dunedinnz.com/" }],
   },
 ];
 
@@ -135,12 +146,9 @@ export default function PlacesNewZealandPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {places.map((place) => (
-              <a
+              <div
                 key={place.name}
-                href={place.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-white rounded-lg overflow-hidden border border-gray-100 flex flex-col group hover:shadow-md hover:border-sage/30 transition-all"
+                className="bg-white rounded-lg overflow-hidden border border-gray-100 flex flex-col"
               >
                 {/* Image — falls back to sage gradient if file is missing */}
                 <div
@@ -162,12 +170,22 @@ export default function PlacesNewZealandPage() {
                   </p>
                   <h3 className="text-xl font-bold text-dark mb-3">{place.name}</h3>
                   <p className="text-dark/60 text-sm flex-1">{place.description}</p>
-                  <span className="mt-4 text-sage font-semibold text-sm group-hover:underline">
-                    Visit regional tourism site
-                    <i className="fa-solid fa-arrow-up-right-from-square text-xs ml-1" />
-                  </span>
+                  <div className="mt-4 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+                    {place.links.map((l) => (
+                      <a
+                        key={l.url}
+                        href={l.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-sage font-semibold hover:underline"
+                      >
+                        {l.label}
+                        <i className="fa-solid fa-arrow-up-right-from-square text-xs ml-1" />
+                      </a>
+                    ))}
+                  </div>
                 </div>
-              </a>
+              </div>
             ))}
           </div>
 
