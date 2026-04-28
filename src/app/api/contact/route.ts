@@ -22,7 +22,7 @@ export async function POST(request: Request) {
 
     const { data, error: sendError } = await resend.emails.send({
       from: "Guest New Zealand <enquiries@guestnewzealand.com>",
-      to: ["michael@guestnewzealand.co.nz", "vrjourneysnz@gmail.com"],
+      to: "michael@guestnewzealand.co.nz",
       replyTo: email,
       subject: `New Travel Enquiry from ${name}`,
       html: `
