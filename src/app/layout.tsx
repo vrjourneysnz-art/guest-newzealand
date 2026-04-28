@@ -7,9 +7,25 @@ import Footer from "@/components/Footer";
 const openSans = Open_Sans({ subsets: ["latin"], variable: "--font-open-sans" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://guestnewzealand.com"),
   title: "New Zealand Travel Planning | Guest New Zealand",
   description:
     "Plan your dream New Zealand holiday with Guest New Zealand. Personalised itineraries, expert travel planning, and authentic New Zealand experiences with 30+ years of local expertise.",
+  openGraph: {
+    type: "website",
+    siteName: "Guest New Zealand",
+    locale: "en_NZ",
+    url: "https://guestnewzealand.com",
+    title: "New Zealand Travel Planning | Guest New Zealand",
+    description:
+      "Plan your dream New Zealand holiday with Guest New Zealand. Personalised itineraries, expert travel planning, and authentic New Zealand experiences with 30+ years of local expertise.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "New Zealand Travel Planning | Guest New Zealand",
+    description:
+      "Plan your dream New Zealand holiday with Guest New Zealand. Personalised itineraries, expert travel planning, and authentic New Zealand experiences with 30+ years of local expertise.",
+  },
 };
 
 export default function RootLayout({
