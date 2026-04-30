@@ -80,6 +80,34 @@ const nextConfig = {
       { source: "/author/:path*", destination: "/", permanent: true },
       { source: "/category/:path*", destination: "/new-zealand-travel-blog", permanent: true },
       { source: "/tag/:path*", destination: "/new-zealand-travel-blog", permanent: true },
+
+      // Catchall for old WP /itinerary-categories/* (more-specific unique-new-zealand rules above still match first)
+      { source: "/itinerary-categories", destination: "/new-zealand-travel-itineraries", permanent: true },
+      { source: "/itinerary-categories/:path*", destination: "/new-zealand-travel-itineraries", permanent: true },
+
+      // Legacy "family-fun-holidays" itinerary category was renamed to "family-friendly-holidays"
+      { source: "/itineraries/family-fun-holidays", destination: "/itineraries/family-friendly-holidays", permanent: true },
+      { source: "/itineraries/family-fun-holidays/:slug", destination: "/itineraries/family-friendly-holidays/:slug", permanent: true },
+
+      // Old slug rename: 12-day-new-zealand-kids-vacation → 12-day-new-zealand-with-kids-vacation
+      { source: "/itineraries/family-friendly-holidays/12-day-new-zealand-kids-vacation", destination: "/itineraries/family-friendly-holidays/12-day-new-zealand-with-kids-vacation", permanent: true },
+
+      // Legacy WP about-us child pages and "-2" duplicates
+      { source: "/about-us/holiday-planning-new-zealand-2", destination: "/travel-planning", permanent: true },
+      { source: "/about-us/holiday-planning-new-zealand/workflow-chart", destination: "/travel-planning", permanent: true },
+      { source: "/about-us/:path*", destination: "/", permanent: true },
+
+      // Old WP blog posts not migrated — redirect NZ-specific to blog index
+      { source: "/doubtless-bay-coopers-beach-mangonui", destination: "/new-zealand-travel-blog", permanent: true },
+      { source: "/choosing-apartment-accommodation-new-zealand", destination: "/new-zealand-travel-blog", permanent: true },
+      { source: "/progress-rebuilding-christchurch-city", destination: "/new-zealand-travel-blog", permanent: true },
+      { source: "/restaurants-and-cafes-in-nelson-city", destination: "/new-zealand-travel-blog", permanent: true },
+      { source: "/fossil-ridge-winery-restaurant-richmond-nelson", destination: "/new-zealand-travel-blog", permanent: true },
+      { source: "/glenorchy-near-queenstown-off-the-beaten-track", destination: "/new-zealand-travel-blog", permanent: true },
+
+      // Old WP blog posts that were Australia-specific — push to Guest Australia
+      { source: "/margaret-river-highlights", destination: "https://guestaustralia.com", permanent: true },
+      { source: "/sydney-visit-days", destination: "https://guestaustralia.com", permanent: true },
     ];
   },
 };
