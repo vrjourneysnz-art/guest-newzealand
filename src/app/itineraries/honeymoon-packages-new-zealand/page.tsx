@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Honeymoon Packages New Zealand | Guest New Zealand",
   description: "Romantic New Zealand honeymoon packages — luxury lodges, private experiences, and breathtaking destinations for couples.",
+  alternates: { canonical: "/itineraries/honeymoon-packages-new-zealand" },
 };
 
 export default function HoneymoonPage() {

@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Visiting Places in New Zealand | Guest New Zealand",
   description:
     "Discover New Zealand's most iconic regions — from the Bay of Islands and Rotorua in the north to Queenstown, Fiordland, and the West Coast glaciers in the south.",
+  alternates: { canonical: "/travel-information/places-new-zealand" },
 };
 
 interface RegionLink {

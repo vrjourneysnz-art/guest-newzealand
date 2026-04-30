@@ -15,9 +15,25 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: Props): Metadata {
   const post = getBlogPost(params.slug);
   if (!post) return {};
+  const canonical = `/${params.slug}`;
   return {
     title: `${post.title} | Guest New Zealand`,
     description: post.excerpt,
+    alternates: { canonical },
+    openGraph: {
+      type: "article",
+      url: canonical,
+      title: post.title,
+      description: post.excerpt,
+      images: post.ogImage ? [post.ogImage] : undefined,
+      publishedTime: post.date,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: post.ogImage ? [post.ogImage] : undefined,
+    },
   };
 }
 

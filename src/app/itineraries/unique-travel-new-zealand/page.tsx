@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Unique Travel NZ Itineraries | Guest New Zealand",
   description: "Off-the-beaten-path New Zealand itineraries — LOTR film locations, North Island hidden treasures, golf tours, and themed adventures for travellers seeking something different.",
+  alternates: { canonical: "/itineraries/unique-travel-new-zealand" },
 };
 
 export default function UniqueTravelPage() {

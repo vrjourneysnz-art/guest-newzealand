@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Lifestyle & Nature Itineraries New Zealand | Guest New Zealand",
   description: "Curated New Zealand itineraries blending lifestyle travel with natural wonders — fiords, forests, hiking trails, and scenic wine country.",
+  alternates: { canonical: "/itineraries/lifestyle-and-nature" },
 };
 
 export default function LifestyleNaturePage() {

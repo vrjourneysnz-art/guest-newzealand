@@ -5,6 +5,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "New Zealand Travel Information | Guest New Zealand",
   description: "Helpful travel tips, guides, and destination information for planning your New Zealand holiday.",
+  alternates: { canonical: "/travel-information" },
 };
 
 const sections = [

@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "South Island Travel Itineraries | Guest New Zealand",
   description: "South Island New Zealand itineraries — alpine lakes, fiords, glaciers, and wine country. From 10-day samplers to 18-day deep dives.",
+  alternates: { canonical: "/itineraries/south-island-travel-itineraries" },
 };
 
 export default function SouthIslandPage() {

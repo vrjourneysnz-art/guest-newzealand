@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Family Holidays New Zealand | Guest New Zealand",
   description: "Family-friendly New Zealand holiday itineraries — beaches, wildlife encounters, theme parks, and unforgettable adventures for all ages.",
+  alternates: { canonical: "/itineraries/family-friendly-holidays" },
 };
 
 export default function FamilyPage() {

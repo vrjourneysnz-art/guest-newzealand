@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "New Zealand Travel Itineraries | Guest New Zealand",
   description:
     "Browse our curated collection of New Zealand travel itineraries — lifestyle & nature, honeymoon, family, South Island, and combined New Zealand & Australia trips.",
+  alternates: { canonical: "/new-zealand-travel-itineraries" },
 };
 
 export default function ItinerariesPage() {

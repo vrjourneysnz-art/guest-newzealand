@@ -6,6 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "New Zealand Travel Blog | Guest New Zealand",
   description: "Travel tips, guides, and insights for planning your New Zealand holiday — from an expert with 30+ years of local experience.",
+  alternates: { canonical: "/new-zealand-travel-blog" },
 };
 
 export default function BlogPage() {

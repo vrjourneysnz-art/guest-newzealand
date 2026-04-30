@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Plan Your New Zealand Holiday | Guest New Zealand",
   description:
     "Start planning your personalised New Zealand holiday with Michael Nees — 30+ years of expert local knowledge. Standard and premium consultation packages available.",
+  alternates: { canonical: "/travel-planning" },
 };
 
 export default function TravelPlanningPage() {
