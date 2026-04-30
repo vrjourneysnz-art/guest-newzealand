@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+import { permanentRedirect } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getBlogPost, blogPosts } from "@/data/blog";
@@ -23,7 +23,9 @@ export function generateMetadata({ params }: Props): Metadata {
 
 export default function BlogPostPage({ params }: Props) {
   const post = getBlogPost(params.slug);
-  if (!post) notFound();
+  // Old WP slugs that aren't in our migrated 50 → 308 to blog index
+  // (preserves SEO authority + sends visitors somewhere useful)
+  if (!post) permanentRedirect("/new-zealand-travel-blog");
 
   return (
     <>

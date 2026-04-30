@@ -108,6 +108,27 @@ const nextConfig = {
       // Old WP blog posts that were Australia-specific — push to Guest Australia
       { source: "/margaret-river-highlights", destination: "https://guestaustralia.com", permanent: true },
       { source: "/sydney-visit-days", destination: "https://guestaustralia.com", permanent: true },
+
+      // Additional old WP itinerary category prefixes (NZ&Australia variants) → unified slug
+      { source: "/itineraries/australia-new-zealand", destination: "/itineraries/australia-and-new-zealand", permanent: true },
+      { source: "/itineraries/australia-new-zealand/:slug", destination: "/itineraries/australia-and-new-zealand/:slug", permanent: true },
+      { source: "/itineraries/travel-australia-and-new-zealand", destination: "/itineraries/australia-and-new-zealand", permanent: true },
+      { source: "/itineraries/travel-australia-and-new-zealand/:slug", destination: "/itineraries/australia-and-new-zealand/:slug", permanent: true },
+      { source: "/itineraries/travel-australia-new-zealand", destination: "/itineraries/australia-and-new-zealand", permanent: true },
+      { source: "/itineraries/travel-australia-new-zealand/:slug", destination: "/itineraries/australia-and-new-zealand/:slug", permanent: true },
+
+      // Specific itinerary slug renames (new site uses new slug, old WP URL still indexed by Google)
+      { source: "/itineraries/family-fun-holidays/12-days-family-holiday-south-island", destination: "/itineraries/family-friendly-holidays/12-days-south-island-family-holiday", permanent: true },
+      { source: "/itineraries/family-friendly-holidays/12-days-family-holiday-south-island", destination: "/itineraries/family-friendly-holidays/12-days-south-island-family-holiday", permanent: true },
+      { source: "/itineraries/family-fun-holidays/14-days-new-zealand-family-holiday", destination: "/itineraries/family-friendly-holidays/14-days-new-zealand-family-itinerary", permanent: true },
+      { source: "/itineraries/family-friendly-holidays/14-days-new-zealand-family-holiday", destination: "/itineraries/family-friendly-holidays/14-days-new-zealand-family-itinerary", permanent: true },
+
+      // WP duplicate "-2" honeymoon slug → original
+      { source: "/itineraries/honeymoon-packages-new-zealand/10-days-south-island-honeymoon-2", destination: "/itineraries/honeymoon-packages-new-zealand/10-days-south-island-honeymoon", permanent: true },
+
+      // Old WP itinerary that was discontinued (no exact match) → category landing page
+      { source: "/itineraries/natures-best-new-zealand/16-day-new-zealand-nature-vacation", destination: "/itineraries/lifestyle-and-nature", permanent: true },
+      { source: "/itineraries/lifestyle-and-nature/16-day-new-zealand-nature-vacation", destination: "/itineraries/lifestyle-and-nature", permanent: true },
     ];
   },
 };
