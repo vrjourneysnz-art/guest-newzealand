@@ -118,9 +118,89 @@ function DayCard({ day }: { day: RichDay }) {
   );
 }
 
+function UsefulTravelResources() {
+  return (
+    <div className="border border-gray-100 rounded-lg p-8">
+      <h2 className="text-xl font-bold text-dark mb-4">
+        <i className="fa-solid fa-suitcase text-sage mr-2" />
+        Useful Travel Resources
+      </h2>
+      <p className="text-dark/50 text-sm mb-6">
+        Planning your own arrangements? These trusted partners offer competitive rates across
+        New Zealand.
+      </p>
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <a
+          href="https://geni.us/RentalCarOptions"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
+        >
+          <i className="fa-solid fa-car text-sage text-lg" />
+          <div>
+            <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
+              Rental Cars New Zealand
+            </span>
+            <p className="text-dark/40 text-xs">Compare car hire deals</p>
+          </div>
+        </a>
+        <a
+          href="https://geni.us/QTAucklandHotel"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
+        >
+          <i className="fa-solid fa-hotel text-sage text-lg" />
+          <div>
+            <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
+              Accommodation
+            </span>
+            <p className="text-dark/40 text-xs">Find hotels &amp; lodges</p>
+          </div>
+        </a>
+        <a
+          href="https://geni.us/AuckyWalky"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
+        >
+          <i className="fa-solid fa-ticket text-sage text-lg" />
+          <div>
+            <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
+              Tours &amp; Activities
+            </span>
+            <p className="text-dark/40 text-xs">Book experiences online</p>
+          </div>
+        </a>
+        <a
+          href="https://geni.us/CamperOptions"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
+        >
+          <i className="fa-solid fa-caravan text-sage text-lg" />
+          <div>
+            <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
+              Motorhome Hire
+            </span>
+            <p className="text-dark/40 text-xs">Campervan &amp; motorhome rentals</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  );
+}
+
+// Slugs that show "Useful Travel Resources" early (under Package Highlights) instead of at the end.
+// Add more slugs here once we're happy with the placement on the test page.
+const RESOURCES_EARLY_SLUGS = new Set([
+  "12-days-new-zealand-north-south-itinerary",
+]);
+
 export default function RichItineraryDetail({ itinerary }: { itinerary: RichItinerary }) {
   // Friendly trip noun for the "Plan Your X Trip" CTA — derived from the category name.
   const tripNoun = itinerary.category.split("&")[0].trim() || "New Zealand";
+  const resourcesEarly = RESOURCES_EARLY_SLUGS.has(itinerary.slug);
 
   return (
     <>
@@ -169,6 +249,13 @@ export default function RichItineraryDetail({ itinerary }: { itinerary: RichItin
               ))}
             </ul>
           </div>
+
+          {/* Useful Travel Resources — early placement (test slugs only) */}
+          {resourcesEarly && (
+            <div className="mb-12">
+              <UsefulTravelResources />
+            </div>
+          )}
 
           {/* Day by Day */}
           <h2 className="text-2xl font-bold text-dark mb-6">
@@ -236,75 +323,12 @@ export default function RichItineraryDetail({ itinerary }: { itinerary: RichItin
             </div>
           </div>
 
-          {/* Useful Travel Resources — affiliate footer */}
-          <div className="mt-12 border border-gray-100 rounded-lg p-8">
-            <h2 className="text-xl font-bold text-dark mb-4">
-              <i className="fa-solid fa-suitcase text-sage mr-2" />
-              Useful Travel Resources
-            </h2>
-            <p className="text-dark/50 text-sm mb-6">
-              Planning your own arrangements? These trusted partners offer competitive rates across
-              New Zealand.
-            </p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              <a
-                href="https://geni.us/RentalCarOptions"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
-              >
-                <i className="fa-solid fa-car text-sage text-lg" />
-                <div>
-                  <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
-                    Rental Cars New Zealand
-                  </span>
-                  <p className="text-dark/40 text-xs">Compare car hire deals</p>
-                </div>
-              </a>
-              <a
-                href="https://geni.us/QTAucklandHotel"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
-              >
-                <i className="fa-solid fa-hotel text-sage text-lg" />
-                <div>
-                  <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
-                    Accommodation
-                  </span>
-                  <p className="text-dark/40 text-xs">Find hotels &amp; lodges</p>
-                </div>
-              </a>
-              <a
-                href="https://geni.us/AuckyWalky"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
-              >
-                <i className="fa-solid fa-ticket text-sage text-lg" />
-                <div>
-                  <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
-                    Tours &amp; Activities
-                  </span>
-                  <p className="text-dark/40 text-xs">Book experiences online</p>
-                </div>
-              </a>
-              <a
-                href="https://geni.us/CamperOptions"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-3 border border-gray-100 rounded-lg p-4 hover:border-sage/30 hover:bg-sage-light/50 transition-colors group"
-              >
-                <i className="fa-solid fa-caravan text-sage text-lg" />
-                <div>
-                  <span className="font-semibold text-dark text-sm group-hover:text-sage transition-colors">
-                    Motorhome Hire
-                  </span>
-                  <p className="text-dark/40 text-xs">Campervan &amp; motorhome rentals</p>
-                </div>
-              </a>
+          {/* Useful Travel Resources — original footer placement (skipped when shown early) */}
+          {!resourcesEarly && (
+            <div className="mt-12">
+              <UsefulTravelResources />
             </div>
-          </div>
+          )}
         </div>
       </section>
     </>
