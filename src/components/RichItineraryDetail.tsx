@@ -191,16 +191,9 @@ function UsefulTravelResources() {
   );
 }
 
-// Slugs that show "Useful Travel Resources" early (under Package Highlights) instead of at the end.
-// Add more slugs here once we're happy with the placement on the test page.
-const RESOURCES_EARLY_SLUGS = new Set([
-  "12-days-new-zealand-north-south-itinerary",
-]);
-
 export default function RichItineraryDetail({ itinerary }: { itinerary: RichItinerary }) {
   // Friendly trip noun for the "Plan Your X Trip" CTA — derived from the category name.
   const tripNoun = itinerary.category.split("&")[0].trim() || "New Zealand";
-  const resourcesEarly = RESOURCES_EARLY_SLUGS.has(itinerary.slug);
 
   return (
     <>
@@ -250,12 +243,10 @@ export default function RichItineraryDetail({ itinerary }: { itinerary: RichItin
             </ul>
           </div>
 
-          {/* Useful Travel Resources — early placement (test slugs only) */}
-          {resourcesEarly && (
-            <div className="mb-12">
-              <UsefulTravelResources />
-            </div>
-          )}
+          {/* Useful Travel Resources — between Package Highlights and Day-by-Day */}
+          <div className="mb-12">
+            <UsefulTravelResources />
+          </div>
 
           {/* Day by Day */}
           <h2 className="text-2xl font-bold text-dark mb-6">
@@ -323,12 +314,6 @@ export default function RichItineraryDetail({ itinerary }: { itinerary: RichItin
             </div>
           </div>
 
-          {/* Useful Travel Resources — original footer placement (skipped when shown early) */}
-          {!resourcesEarly && (
-            <div className="mt-12">
-              <UsefulTravelResources />
-            </div>
-          )}
         </div>
       </section>
     </>
