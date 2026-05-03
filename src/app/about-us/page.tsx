@@ -115,7 +115,7 @@ export default function AboutUsPage() {
 
               {/* Google reviews link */}
               <a
-                href="https://www.google.com/search?q=guest+new+zealand+reviews"
+                href="https://search.google.com/local/reviews?placeid=ChIJyU4Lh2CUO20Rvz1U3-TnFk8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 border border-gray-200 rounded-lg px-4 py-2.5 hover:border-terra/40 hover:bg-warm/40 transition-colors group"
