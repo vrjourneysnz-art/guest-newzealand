@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "About Michael Nees | Guest New Zealand",
     description:
       "Meet Michael Nees, a New Zealand-based travel designer with over 30 years of expertise crafting personalised New Zealand and Australia holidays.",
-    images: ["/images/hero-nz.jpg"],
+    images: ["/images/michael.jpg"],
   },
 };
 
@@ -85,10 +85,10 @@ export default function AboutUsPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-5 gap-10 items-center">
             <div className="md:col-span-2">
-              <div className="relative aspect-square rounded-lg overflow-hidden shadow-md">
+              <div className="relative aspect-[4/3] rounded-lg overflow-hidden shadow-md">
                 <Image
-                  src="/images/hero-nz.jpg"
-                  alt="Michael Nees, New Zealand travel designer"
+                  src="/images/michael.jpg"
+                  alt="Michael Nees, founder of Guest New Zealand, outside The Old Post Office at Upper Moutere"
                   fill
                   sizes="(max-width: 768px) 100vw, 40vw"
                   className="object-cover"
