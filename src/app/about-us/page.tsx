@@ -106,12 +106,33 @@ export default function AboutUsPage() {
                 thing properly: create deeply personal itineraries for international travellers
                 who want more than a tour-bus version of these countries.
               </p>
-              <p className="text-dark/70 leading-relaxed">
+              <p className="text-dark/70 leading-relaxed mb-5">
                 Every trip I plan begins with a real conversation. What kind of traveller are
                 you? What do you actually love doing on holiday? How fast or slow do you want
                 to move? From there, the route, the accommodation, the pace, and the experiences
                 are all shaped around you — not the other way round.
               </p>
+
+              {/* Google reviews link */}
+              <a
+                href="https://www.google.com/search?q=guest+new+zealand+reviews"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-3 border border-gray-200 rounded-lg px-4 py-2.5 hover:border-terra/40 hover:bg-warm/40 transition-colors group"
+              >
+                <i className="fa-brands fa-google text-lg" style={{ color: "#4285F4" }} />
+                <div className="flex items-center gap-1 text-amber-500">
+                  <i className="fa-solid fa-star text-xs" />
+                  <i className="fa-solid fa-star text-xs" />
+                  <i className="fa-solid fa-star text-xs" />
+                  <i className="fa-solid fa-star text-xs" />
+                  <i className="fa-solid fa-star text-xs" />
+                </div>
+                <span className="text-sm font-semibold text-dark group-hover:text-terra transition-colors">
+                  Read our Google reviews
+                </span>
+                <i className="fa-solid fa-arrow-up-right-from-square text-[10px] text-dark/40 group-hover:text-terra transition-colors" />
+              </a>
             </div>
           </div>
         </div>
