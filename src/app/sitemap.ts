@@ -19,6 +19,7 @@ const staticRoutes: string[] = [
   "/travel-information/places-new-zealand",
   "/travel-information/detailed-new-zealand-maps",
   "/travel-information/new-zealand-travel-distances",
+  "/about-us",
   "/about-us/personal-new-zealand-driver-guide",
   "/new-zealand-travel-blog",
 ];

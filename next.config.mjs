@@ -57,7 +57,7 @@ const nextConfig = {
       { source: "/travel-information/boutique-travel-providers", destination: "/travel-information", permanent: true },
 
       // About-Us legacy paths
-      { source: "/about-us", destination: "/", permanent: true },
+      // /about-us is now a real page — leave it. Keep specific child redirects.
       { source: "/about-us/holiday-planning-new-zealand", destination: "/travel-planning", permanent: true },
       { source: "/about-us/driver-guide", destination: "/about-us/personal-new-zealand-driver-guide", permanent: true },
 
@@ -92,10 +92,9 @@ const nextConfig = {
       // Old slug rename: 12-day-new-zealand-kids-vacation → 12-day-new-zealand-with-kids-vacation
       { source: "/itineraries/family-friendly-holidays/12-day-new-zealand-kids-vacation", destination: "/itineraries/family-friendly-holidays/12-day-new-zealand-with-kids-vacation", permanent: true },
 
-      // Legacy WP about-us child pages and "-2" duplicates
+      // Legacy WP about-us child pages and "-2" duplicates (specific only — let real /about-us/* pages through)
       { source: "/about-us/holiday-planning-new-zealand-2", destination: "/travel-planning", permanent: true },
       { source: "/about-us/holiday-planning-new-zealand/workflow-chart", destination: "/travel-planning", permanent: true },
-      { source: "/about-us/:path*", destination: "/", permanent: true },
 
       // Old WP blog posts not migrated — redirect NZ-specific to blog index
       { source: "/doubtless-bay-coopers-beach-mangonui", destination: "/new-zealand-travel-blog", permanent: true },
