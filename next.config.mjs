@@ -128,6 +128,32 @@ const nextConfig = {
       // Old WP itinerary that was discontinued (no exact match) → category landing page
       { source: "/itineraries/natures-best-new-zealand/16-day-new-zealand-nature-vacation", destination: "/itineraries/lifestyle-and-nature", permanent: true },
       { source: "/itineraries/lifestyle-and-nature/16-day-new-zealand-nature-vacation", destination: "/itineraries/lifestyle-and-nature", permanent: true },
+
+      // Pre-WordPress legacy CMS prefixes — Google still has thousands of these in its index
+      // (Travel-Regions alone = 1,418 URLs from Wayback). Catchall redirect to nearest sensible target.
+      // Itinerary-related → itineraries index. Everything else → home.
+      { source: "/Travel-Regions/:path*", destination: "/", permanent: true },
+      { source: "/About-New-Zealand/:path*", destination: "/", permanent: true },
+      { source: "/About-Guest-NZ/:path*", destination: "/", permanent: true },
+      { source: "/Service-Providers/:path*", destination: "/", permanent: true },
+      { source: "/Travel-Services/:path*", destination: "/", permanent: true },
+      { source: "/Example-Itineraries/:path*", destination: "/new-zealand-travel-itineraries", permanent: true },
+      { source: "/Vacation-Samples/:path*", destination: "/new-zealand-travel-itineraries", permanent: true },
+      { source: "/K/:path*", destination: "/", permanent: true },
+      { source: "/system/:path*", destination: "/", permanent: true },
+      { source: "/custom/:path*", destination: "/", permanent: true },
+      { source: "/Dynamic/:path*", destination: "/", permanent: true },
+      { source: "/new-zealand/:path*", destination: "/", permanent: true },
+      { source: "/home/:path*", destination: "/", permanent: true },
+
+      // Lower-case variants of the above (Next.js redirect sources are case-sensitive)
+      { source: "/travel-regions/:path*", destination: "/", permanent: true },
+      { source: "/about-new-zealand/:path*", destination: "/", permanent: true },
+      { source: "/about-guest-nz/:path*", destination: "/", permanent: true },
+      { source: "/service-providers/:path*", destination: "/", permanent: true },
+      { source: "/travel-services/:path*", destination: "/", permanent: true },
+      { source: "/example-itineraries/:path*", destination: "/new-zealand-travel-itineraries", permanent: true },
+      { source: "/vacation-samples/:path*", destination: "/new-zealand-travel-itineraries", permanent: true },
     ];
   },
 };
