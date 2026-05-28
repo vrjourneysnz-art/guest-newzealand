@@ -93,6 +93,17 @@ export default function TravelPlanningPage() {
               </a>
             </div>
           </div>
+
+          {/* Sample Itineraries Pointer */}
+          <p className="text-center text-dark/70 mt-8 max-w-3xl mx-auto">
+            Not ready to book?{" "}
+            <Link
+              href="/new-zealand-travel-itineraries"
+              className="text-sage font-semibold hover:text-sage-dark hover:underline"
+            >
+              Browse our free sample itineraries to get started.
+            </Link>
+          </p>
         </div>
       </section>
 
@@ -150,21 +161,6 @@ export default function TravelPlanningPage() {
             Fill in the form below and Michael will get back to you within 24 hours.
           </p>
           <ContactForm />
-        </div>
-      </section>
-
-      {/* Sample Itineraries Pointer */}
-      <section className="py-8 bg-sage-light">
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-dark/70">
-            Not ready to book?{" "}
-            <Link
-              href="/new-zealand-travel-itineraries"
-              className="text-sage font-semibold hover:text-sage-dark hover:underline"
-            >
-              Browse our free sample itineraries to get started.
-            </Link>
-          </p>
         </div>
       </section>
     </>
