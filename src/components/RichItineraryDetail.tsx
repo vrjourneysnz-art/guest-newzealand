@@ -220,12 +220,18 @@ export default function RichItineraryDetail({ itinerary }: { itinerary: RichItin
             href={itinerary.downloadLink}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center justify-center gap-3 bg-sage text-white py-4 rounded-lg font-semibold hover:bg-sage-dark transition-colors mb-12"
+            className="flex items-center justify-center gap-3 bg-sage text-white py-4 rounded-lg font-semibold hover:bg-sage-dark transition-colors mb-3"
           >
             <i className="fa-solid fa-file-pdf text-lg" />
             Download Your Free PDF Planner
             <i className="fa-solid fa-arrow-up-right-from-square text-xs" />
           </a>
+          <p className="text-center text-sm text-dark/60 mb-12">
+            Already have a draft and want it reviewed?{" "}
+            <Link href="/travel-planning" className="text-sage font-semibold hover:underline">
+              See consultation options.
+            </Link>
+          </p>
 
           {/* Highlights */}
           <div className="bg-sage-light rounded-lg p-8 mb-12">
@@ -236,7 +242,7 @@ export default function RichItineraryDetail({ itinerary }: { itinerary: RichItin
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
               {itinerary.highlights.map((h, i) => (
                 <li key={i} className="flex items-start gap-2 text-dark/60">
-                  <i className="fa-solid fa-check text-sage text-xs mt-1.5" />
+                  <i className="fa-solid fa-check text-xs text-sage mt-1.5" />
                   {h}
                 </li>
               ))}
