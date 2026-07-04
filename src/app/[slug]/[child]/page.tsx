@@ -1,4 +1,4 @@
-import { permanentRedirect } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { getBlogPost } from "@/data/blog";
 
 interface Props {
@@ -15,7 +15,7 @@ interface Props {
 export default function CatchallChildPage({ params }: Props) {
   const post = getBlogPost(params.slug);
   if (post) permanentRedirect(`/${params.slug}`);
-  permanentRedirect("/new-zealand-travel-blog");
+  notFound();
 }
 
 export function generateStaticParams() {
