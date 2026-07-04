@@ -1,4 +1,4 @@
-import { permanentRedirect } from "next/navigation";
+import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getBlogPost, blogPosts } from "@/data/blog";
@@ -39,9 +39,9 @@ export function generateMetadata({ params }: Props): Metadata {
 
 export default function BlogPostPage({ params }: Props) {
   const post = getBlogPost(params.slug);
-  // Old WP slugs that aren't in our migrated 50 → 308 to blog index
+  // Old WP slugs not in our migrated set → return a proper 404 so Google drops them cleanly
   // (preserves SEO authority + sends visitors somewhere useful)
-  if (!post) permanentRedirect("/new-zealand-travel-blog");
+  if (!post) notFound();
 
   return (
     <>
