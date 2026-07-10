@@ -37,6 +37,41 @@ export function generateMetadata({ params }: Props): Metadata {
   };
 }
 
+// Renders inline markdown within a line: **bold** and [text](url) links.
+function renderInline(text: string): (string | JSX.Element)[] {
+  const nodes: (string | JSX.Element)[] = [];
+  const regex = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g;
+  let lastIndex = 0;
+  let key = 0;
+  let match: RegExpExecArray | null;
+  while ((match = regex.exec(text)) !== null) {
+    if (match.index > lastIndex) nodes.push(text.slice(lastIndex, match.index));
+    if (match[1] !== undefined) {
+      const href = match[2];
+      const external = /^https?:\/\//i.test(href);
+      nodes.push(
+        <a
+          key={key++}
+          href={href}
+          className="text-sage font-medium hover:underline"
+          {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+        >
+          {match[1]}
+        </a>
+      );
+    } else if (match[3] !== undefined) {
+      nodes.push(
+        <strong key={key++} className="font-semibold text-dark">
+          {match[3]}
+        </strong>
+      );
+    }
+    lastIndex = regex.lastIndex;
+  }
+  if (lastIndex < text.length) nodes.push(text.slice(lastIndex));
+  return nodes;
+}
+
 export default function BlogPostPage({ params }: Props) {
   const post = getBlogPost(params.slug);
   // Old WP slugs not in our migrated set → return a proper 404 so Google drops them cleanly
@@ -126,18 +161,18 @@ export default function BlogPostPage({ params }: Props) {
               if (trimmed.startsWith("- "))
                 return (
                   <li key={i} className="text-dark/70 leading-relaxed ml-4 mb-1">
-                    {trimmed.replace("- ", "")}
+                    {renderInline(trimmed.replace("- ", ""))}
                   </li>
                 );
               if (trimmed.startsWith("> "))
                 return (
                   <blockquote key={i} className="border-l-4 border-sage pl-4 italic text-dark/60 my-4">
-                    {trimmed.replace("> ", "")}
+                    {renderInline(trimmed.replace("> ", ""))}
                   </blockquote>
                 );
               return (
                 <p key={i} className="text-dark/70 leading-relaxed mb-4">
-                  {trimmed}
+                  {renderInline(trimmed)}
                 </p>
               );
             })}
