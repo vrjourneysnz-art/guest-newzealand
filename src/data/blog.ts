@@ -9301,7 +9301,7 @@ Queenstown to Milford Sound`,
   {
     slug: "new-zealand-skiing-location",
     title: "New Zealand Skiing Locations: How to Choose the Right Base for Your Trip",
-    date: "July 10, 2026",
+    date: "July 4, 2026",
     excerpt: `Choosing from the best New Zealand skiing locations? Learn how to match your ski style and travel needs with the right base — Queenstown, Wanaka, Ruapehu, or Canterbury/Mt Hutt — for easier access, better value, and a smoother trip.`,
     ogImage: "https://img.youtube.com/vi/1h9RnxgQG0M/maxresdefault.jpg",
     youtubeIds: ["1h9RnxgQG0M"],
