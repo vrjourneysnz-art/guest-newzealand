@@ -9667,7 +9667,7 @@ Planned well, **bay of island new zealand** is not just another stop on a map. I
   {
     slug: "rental-car-or-motorhome-new-zealand",
     title: "Rental Car or Motorhome New Zealand: How to Choose the Right Vehicle for Your Trip",
-    date: "July 10, 2026",
+    date: "July 18, 2026",
     excerpt: `Learn how to choose between a rental car, campervan, or motorhome for your New Zealand trip. Use time budget, comfort needs, and travel style—not the vehicle—to plan a smarter itinerary.`,
     ogImage: "https://img.youtube.com/vi/x8SYmgDR3js/maxresdefault.jpg",
     youtubeIds: ["x8SYmgDR3js"],
