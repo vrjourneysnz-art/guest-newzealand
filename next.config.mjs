@@ -74,6 +74,13 @@ const nextConfig = {
       { source: "/contact-us", destination: "/travel-planning", permanent: true },
       { source: "/terms", destination: "/", permanent: true },
 
+      // Added Jul 2026 — confirmed live 404s from the GA4 "page could not be found" bucket
+      { source: "/about", destination: "/about-us", permanent: true },
+      { source: "/services", destination: "/travel-planning", permanent: true },
+      { source: "/new-zealand-itineraries", destination: "/new-zealand-travel-itineraries", permanent: true },
+      { source: "/privacy-policy", destination: "/", permanent: true },
+      { source: "/terms-and-conditions", destination: "/", permanent: true },
+
       // WordPress trailing-slash author/feed URLs that crawlers may probe
       { source: "/feed", destination: "/", permanent: true },
       { source: "/feed/:path*", destination: "/", permanent: true },
