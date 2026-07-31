@@ -13,7 +13,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "new-zealand-travel-itinerary-5-planning-mistakes",
     title: "New Zealand Travel Itinerary: 5 Planning Mistakes to Avoid",
-    date: "June 26, 2026",
+    date: "July 31, 2026",
     excerpt: `Plan your New Zealand travel itinerary the right way. Learn 5 common mistakes to avoid—like backtracking, staying only in hubs, and booking too fast—so you can save time, money, and actually enjoy the journey.`,
     ogImage: "/images/blog/new-zealand-travel-itinerary-5-planning-mistakes.jpg",
     youtubeIds: ["k-Ks20P4StM"],
