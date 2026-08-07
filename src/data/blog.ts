@@ -9958,7 +9958,7 @@ A well-planned **rental car or motorhome new zealand** holiday is not about choo
   {
     slug: "plan-your-2027-new-zealand-trip-7-steps",
     title: "Plan Your 2027 New Zealand Trip in 7 Steps, in the Right Order",
-    date: "July 18, 2026",
+    date: "August 7, 2026",
     excerpt: `After planning thousands of itineraries, here is how to plan a 2027 New Zealand self-drive trip in the right order — choose the season, pick regions by interest, set a realistic driving pace, build the route, then book accommodation, transport, and tours. Fewer places, longer stays.`,
     ogImage: "https://img.youtube.com/vi/1kY-EtGvpjE/maxresdefault.jpg",
     youtubeIds: ["1kY-EtGvpjE"],
