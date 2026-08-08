@@ -2,6 +2,17 @@
 const nextConfig = {
   async redirects() {
     return [
+      // Canonicalise host: www -> apex. Must stay first so it fires before any
+      // path-based rule and every page has a single indexable URL.
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.guestnewzealand.com" }],
+        destination: "https://guestnewzealand.com/:path*",
+        // statusCode 301 rather than `permanent: true` — Next.js maps
+        // `permanent` to 308, and 301 is what the SEO tooling expects here.
+        statusCode: 301,
+      },
+
       // Itineraries index moved to match live URL
       { source: "/itineraries", destination: "/new-zealand-travel-itineraries", permanent: true },
 
