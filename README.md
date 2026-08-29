@@ -99,3 +99,7 @@ Guest New Zealand is part of the Virtual Journeys family:
 - [virtualjourneys.co.nz](https://virtualjourneys.co.nz) — YouTube travel channel
 
 Once NZ is live, update the AU and VJ footers to link back.
+
+<!-- Deploy note: 2026-08-30 — no-op commit to force a fresh Railway build after
+     deployment 7e75b96c failed with zero build logs (Railway builder never
+     started; site code unchanged and verified building clean from a fresh clone). -->
