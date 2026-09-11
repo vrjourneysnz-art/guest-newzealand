@@ -10570,6 +10570,205 @@ Yes. Some Queen Charlotte, Abel Tasman, Milford Track, Hidden Lakes and Siberia 
 
 Take weatherproof layers, a rain jacket, sun protection, water, suitable footwear and enough food for the planned walking time.`,
   },
+  {
+    slug: "campervan-new-zealand-camping-rules",
+    title: "Campervan New Zealand 2027: Where You Can’t Camp Under the New Rules",
+    date: "September 12, 2026",
+    excerpt: `New Zealand's camping rules changed in June 2026. Here's where you can and can't camp in a campervan, the new green-card self-containment rules, and how mixing holiday parks, DOC sites, private sites and free camping can halve your costs.`,
+    ogImage: "https://img.youtube.com/vi/-niu-69v2-0/maxresdefault.jpg",
+    youtubeIds: ["-niu-69v2-0"],
+    images: [],
+    content: `Thinking a campervan means you can simply pull over anywhere with a beautiful view? No. In New Zealand, that mistake can become a very expensive first night.
+
+Camping rules changed in June 2026, and freedom camping is now only one part of the picture. The good news is that a non-compliant vehicle does not ruin a campervan holiday. It simply removes one of four legal ways to stay overnight.
+
+The smart approach is not trying to freedom camp every night. It is building a trip around the right combination of holiday parks, Department of Conservation campsites, private sites, and free camping where it is actually permitted. Do that well and a two-week South Island trip can cost about **NZ$680 instead of NZ$1,400** for accommodation.
+
+## Key Takeaways
+
+- New Zealand has four legal camping systems, not just free camping.
+- Green-card self-containment now requires a fixed toilet and proper waste-water equipment.
+- Local no-camping signs override self-containment certification in every case.
+- A mixed 14-night plan can reduce campsite costs from NZ$1,400 to NZ$680.
+
+## The Four Legal Ways to Camp in New Zealand
+
+New Zealand camping operates through four quite separate systems. Knowing the difference before booking a van makes route planning much easier and helps keep costs under control.
+
+### 1. Holiday parks
+
+Holiday parks are the comfort stops of a campervan trip. Expect shared kitchens, hot showers, laundry facilities, powered sites, and often playgrounds for children. They generally cost around **NZ$50 to NZ$100 per night**, depending on the season and location.
+
+Use them strategically. They are particularly useful on arrival, before departure, and whenever laundry, a proper shower, mains power, or a kitchen will make life easier. You do not need them every night, but they are very helpful at the right moments.
+
+### 2. Department of Conservation campsites
+
+There are around **300 DOC campsites** nationwide, usually costing between free and NZ$30 per night. Facilities can be very basic, but these sites are often in the places that make a New Zealand road trip memorable: beside lakes, near beaches, in native forest, or surrounded by mountains.
+
+DOC sites are the backbone of a good-value itinerary. They offer a far more practical and reliable way to enjoy remote scenery than hoping that an unplanned roadside stop will be legal and available.
+
+### 3. Private camping sites
+
+Private sites are one of New Zealand’s most overlooked campervan options. Farms, lifestyle blocks, and local families rent space on their land, sometimes with power included. These stays typically range from **NZ$10 to NZ$50 or more** per night and can be booked through the Campable app.
+
+They can be the most personal nights on the road. You may get a memorable rural location, a powered site, local advice, and genuine contact with the people who live in the area.
+
+### 4. Free camping on public land
+
+There are more than 500 official free-camping sites. They are free, but they are not a general permission to park anywhere. In most cases, they require a properly certified self-contained vehicle, and local council restrictions can override that eligibility completely.
+
+Think of free camping as a bonus when the location and the rules line up, not as the whole basis of the itinerary.
+
+## New Zealand’s Green Card Self-Containment Rules
+
+Since June 2026, self-containment requirements have become stricter. The old blue camping card has expired, and eligible vehicles now use the green self-containment card.
+
+The major change is simple: a portable toilet that can be lifted in and out of the van no longer qualifies. A vehicle needs a **fixed toilet that can be used with the bed made up**.
+
+For green-card certification, a campervan must have:
+
+- A fixed, plumbed-in toilet.
+- At least 12 litres of fresh water per person.
+- A sealed grey-water tank.
+- A sink with a smell trap.
+- A waste hose at least three metres long.
+- A green card valid for four years.
+
+You do not need to inspect every component yourself. Ask the rental operator directly whether the exact vehicle is compliant with the June 2026 self-containment requirements. Major rental fleets are already compliant, so this issue matters most when considering a cheap small van, a private hire, or a relocation deal.
+
+If the company cannot answer clearly, book somewhere else. A useful starting point is this [comparison of New Zealand campervan and motorhome options](https://geni.us/CamperOptions), and our guide to [campervan rental in New Zealand](/campervan-rental-in-new-zealand) covers what to look for when booking.
+
+### Get the free NZ camping guide
+
+Plan overnight stops with a region-by-region guide to campervan and motorhome camping in New Zealand. [Download the camping guide](https://geni.us/CampGuideNZ).
+
+## Where to Camp on the North Island
+
+The North Island has a wide range of camping options, but the best approach changes by region.
+
+### Northland and the Bay of Islands
+
+This is New Zealand’s warmest region and one of the busiest over Christmas. Coastal holiday parks and DOC sites are the practical choices. For the Bay of Islands, Paihia and Kerikeri are particularly useful bases.
+
+### Coromandel Peninsula
+
+The Coromandel has excellent beachfront holiday parks near the big-name walks. Free camping is limited, and popular sites, especially on the east coast, need to be booked well in advance during the summer period.
+
+### Waikato and Waitomo
+
+Choose full-facility parks here, particularly around Waitomo. It makes an easy base for exploring the famous cave systems and is a good point in the journey to reset with showers, laundry, and supplies.
+
+### Rotorua and Taupō
+
+Rotorua and Taupō offer the widest mix of all four camping options anywhere in the country. There are lakeside stays, thermal parks, DOC sites, private sites, and strong family facilities.
+
+### Tongariro and the Central Plateau
+
+This is DOC-campsite territory. Facilities can be more basic, and altitude matters. Check the weather forecast, not just driving distance. A location that looks close on a map can feel very different when conditions are cold, wet, or windy.
+
+### Hawke’s Bay to Wellington
+
+This stretch is more spread out and generally quieter. It is a better area for finding an available overnight spot later in the day, though you still need to follow the rules and local signage.
+
+## How the Right Campsite Mix Saves NZ$720
+
+Here is the real difference between a basic booking strategy and a more thoughtful campervan trip. Take 14 nights on the South Island with the same route and the same vehicle.
+
+If every night is spent at a holiday park averaging NZ$100, the total is:
+
+**14 nights × NZ$100 = NZ$1,400**
+
+Now use a sensible mix of the four accommodation types:
+
+- Four holiday-park nights at NZ$100: **NZ$400**.
+- Six DOC campsite nights at NZ$30: **NZ$180**.
+- Two private camping-site nights at NZ$50: **NZ$100**.
+- Two legal free-camping nights: **NZ$0**.
+
+**Total: NZ$680.**
+
+That is a saving of **NZ$720** on the same journey. DOC sites do most of the work here, supported by private sites and a couple of free nights when appropriate.
+
+So, do not try to freedom camp around New Zealand every night. Build the itinerary on DOC campsites and treat free camping as a bonus. During peak summer, book the popular places ahead.
+
+## Where to Camp on the South Island
+
+### Nelson and Abel Tasman
+
+For Abel Tasman National Park, Mapua is a practical place to stay, then take a transfer into the park. Campgrounds at Marahau Beach and Kaiteriteri are close to the action but can become very busy in summer.
+
+### The West Coast
+
+The West Coast has plenty of DOC sites, but also long gaps between services. Fill the fresh-water tank before heading into remote sections, and pre-book key stops such as Punakaiki.
+
+### Wānaka and Queenstown
+
+These are two of the busiest places in the country. Rather than insisting on camping in town, consider staying outside Wānaka, around Glendhu Bay, or near Glenorchy, which is about an hour from Queenstown. It can be a calmer and more realistic plan.
+
+### Fiordland and Milford Sound
+
+Base yourself in Te Anau or at suitable sites along the Milford Sound road. There are no fuel stops and no shopping along the way, so stock up in Te Anau before setting off.
+
+### The Catlins, Otago, and inland Canterbury
+
+These areas are quieter and more forgiving for spontaneous overnight stays. The normal rules still apply, but there is a better chance of finding legal availability without booking every night ahead.
+
+## Where You Cannot Camp: The Sign Is the Law
+
+A green self-containment card is not permission to camp anywhere that is not private property. Local council signage overrides certification completely.
+
+If a sign says **no overnight camping**, that is the end of the conversation. Certified or not, do not stay there.
+
+Every council has its own bylaws, and the rules can change between districts along the same road. Queenstown, Auckland, and Waikato have some of the strictest restrictions, so be particularly careful there. Google Maps does not know local council bylaws, which is why it cannot be your only source for overnight planning.
+
+The fines are serious:
+
+- Up to **NZ$200** for failing to display the green card.
+- Up to **NZ$800** for wastewater offences.
+
+Enforcement does happen. One recent example involved an 80-year-old fined NZ$400 after staying one extra night at a free site.
+
+Two practical rules prevent most trouble:
+
+- **Empty wastewater only at designated dump stations.** Confirm locations with the rental operator before starting the trip.
+- **Check local signage before settling in.** Never assume that a nice roadside area is legal simply because other vans are present.
+
+## Certified Occupancy Matters Too
+
+There is another small detail that can catch people out. A van certified for two people cannot legally be used by four people at a self-contained site, even if it has enough seats or beds for everyone.
+
+Check the certified occupancy on the rental agreement. The vehicle, the number of travellers, and the site rules must all match. For more pitfalls to avoid, see our guide to [common campervanning mistakes in New Zealand](/campervanning-new-zealand-mistakes).
+
+## One Island or Both?
+
+If you have two weeks or less, focus on one island. Trying to complete both islands in a short trip means too many driving hours and not enough time in the places that make the journey worthwhile.
+
+With three weeks or more, doing both islands becomes more realistic. The smartest version for many travellers is to use a rental car on the North Island, fly south, then hire the campervan on the South Island. That reduces long driving days and puts the campervan where the DOC sites and dramatic scenery are at their strongest.
+
+## The Simple Campervan Rule to Remember
+
+New Zealand offers **four camping options, not one**. Holiday parks give you comfort and facilities. DOC sites bring value and scenery. Private sites add local character. Free camping can work beautifully, but only when the vehicle, location, local bylaws, signage, and certified occupancy all allow it.
+
+Plan around the first three and use the fourth carefully. That is how to avoid unnecessary fines, keep the trip flexible, and save a substantial amount of money without giving up the best parts of a New Zealand campervan holiday.
+
+## New Zealand Campervan Camping FAQ
+
+### Can I park a campervan anywhere overnight in New Zealand?
+
+No. Overnight camping is only allowed where the landowner or local rules permit it. A no-camping sign always overrides a green self-containment card.
+
+### Do I need a self-contained campervan in New Zealand?
+
+You need a green-card self-contained vehicle for many official free-camping sites. You can still use holiday parks, DOC campsites, and private sites without relying on free camping.
+
+### What is the cheapest way to camp around New Zealand?
+
+Use a mix of DOC campsites, occasional private sites, a few holiday parks for facilities, and legal free-camping nights when available.
+
+### Do campervan sites need booking in summer?
+
+Yes, popular holiday parks and campsites should be booked ahead during peak summer, especially in Coromandel, Abel Tasman, Punakaiki, Wānaka, and Queenstown.`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {
