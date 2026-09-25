@@ -10769,6 +10769,122 @@ Use a mix of DOC campsites, occasional private sites, a few holiday parks for fa
 
 Yes, popular holiday parks and campsites should be booked ahead during peak summer, especially in Coromandel, Abel Tasman, Punakaiki, Wānaka, and Queenstown.`,
   },
+  {
+    slug: "where-to-stay-central-otago-cromwell-queenstown-wanaka",
+    title: "Where to Stay in Central Otago: Why Cromwell May Beat Queenstown and Wanaka",
+    date: "September 26, 2026",
+    excerpt: `Queenstown, Wanaka, Arrowtown, Glenorchy, Cromwell or Clyde? How to choose the right Central Otago base for a three-night stay — and why central Cromwell can save you hours of driving and traffic.`,
+    ogImage: "https://img.youtube.com/vi/xCQhfxoSEUQ/maxresdefault.jpg",
+    youtubeIds: ["xCQhfxoSEUQ"],
+    images: [],
+    content: `Queenstown and Wanaka are spectacular, but choosing between them is not quite the right question. Your base determines how much of a short Central Otago stay you spend exploring and how much you spend getting in and out of town.
+
+After 35 years of planning trips through this part of New Zealand, I have learned to look at the map before looking at hotels. Most travelers give the region about three nights. On a stay that short, an hour lost in traffic is not a minor inconvenience. It is time you could have spent by a lake, on a trail, or over a long lunch.
+
+There are six bases worth considering: **Queenstown, Wanaka, Arrowtown, Glenorchy, Cromwell, and Clyde.** Queenstown offers the biggest activity menu. Wanaka gives you an alpine setting at a gentler pace. Arrowtown and Glenorchy let you step away from Queenstown’s bustle. And Cromwell, the town many first-time travelers overlook, can put several different kinds of day within reach.
+
+## Key Takeaways
+
+- Choose your Central Otago base around planned activities, not the best-known town.
+- Queenstown suits adventure-filled stays, while Wanaka favors walks and a gentler pace.
+- Cromwell is a useful hub when your itinerary spans both towns and wine country.
+- On a three-night stop, repeated driving and traffic can cost valuable afternoons.
+
+## First, Understand the Landscape You Are Visiting
+
+Many people picture New Zealand’s South Island as one continuous stretch of green. Central Otago will change that picture quickly. It is the country’s driest region, with dry golden hills, grey schist, wild thyme, and enormous open skies. Alexandra averages around 360 millimeters of rain a year, less than Madrid.
+
+That landscape is part of the reason to stay rather than simply drive through. You can spend one day among alpine lakes and mountains, another in old gold-mining country, and another following vineyards and cycle trails through the dry hills. The trick is to choose a base that suits the days you actually want.
+
+## Queenstown: The Case for Staying in the Action
+
+Queenstown earns its reputation. Bungy jumping, jet boating, skydiving, and the gondola are all close to town. It has an exceptional restaurant scene, a wide range of accommodation, and an international airport. Then there is Lake Wakatipu with the mountains behind it, a view that is hard to argue with.
+
+If this is your one big New Zealand trip and you want the adventure capital at your doorstep, **Queenstown delivers.** You can fill a day with activities and still have plenty of choices for dinner. For travelers who want that energy from morning to night, staying in town makes sense.
+
+The compromise is congestion. Queenstown is the busiest tourism spot in the country, and its roads have to serve far more people than they were built for. The figures discussed in 2026 put annual visitors above 2.1 million, compared with roughly 52,000 residents across the district. A trip into central Queenstown along the eight-kilometer Frankton Road can take far longer than the distance suggests.
+
+A journey from the Lake Hayes area that once took locals about 15 minutes may take 30 minutes on a good day and 45 to 60 minutes in rush hour. That matters when your accommodation is in Queenstown but much of your itinerary is elsewhere. You may face the delay leaving in the morning and again coming home.
+
+So the question is not whether to visit Queenstown. You should. The better question is whether you need to sleep there. If your plans center on Queenstown activities, restaurants, and evenings out, the answer may be yes. If you intend to head in a different direction each day, compare the total driving before you book.
+
+## Wanaka: Alpine Scenery With Less Friction
+
+Wanaka sits about an hour from Queenstown over the Crown Range. Do not think of it as the consolation prize. It has an alpine lake, mountain scenery, beautiful light, and a waterfront that, for my money, is a more pleasant place to spend an evening simply because you can stroll along it at your own pace.
+
+It is particularly appealing if your ideal days involve walking, cycling, wine, and unhurried dinners. Diamond Lake, Rob Roy Glacier, and Mount Aspiring National Park give you plenty of reasons to put your walking shoes on. Rippon Vineyard, set above the lake, shows just how well scenery and Pinot Noir go together here.
+
+Wanaka is also where many New Zealanders choose to go instead of Queenstown. That tells you something about its appeal, but do not mistake it for an empty lakeside village. January and February are busy. It is quieter than Queenstown, not undiscovered.
+
+The trade-off is straightforward: Wanaka has fewer restaurants and a shorter menu of adrenaline activities. If bungy jumping and late nights are the point of your trip, Queenstown is the stronger fit. If walks, cycle trails, and a slower evening matter more, Wanaka may be exactly right.
+
+### Can You Visit Milford Sound From Wanaka?
+
+Yes, and you do not necessarily have to drive through Queenstown to do it. Southern Alps Air offers a fly, cruise, fly trip from Wanaka Airport to Milford Sound. The itinerary described takes around 40 minutes in the air each way, includes approximately an hour and a half on the water, and returns to Wanaka roughly four hours after departure.
+
+At around NZ$800 per person, it is a significant expense. But compare it with the alternative the trip replaces: about ten hours in a car, much of it retracing the same road. The flight adds views over glaciers and the Dart Valley. For someone with only three nights in the region, the time saved may be as important as the experience itself.
+
+Flight schedules, prices, and conditions can change, so check current details before building an entire day around this option.
+
+## Arrowtown and Glenorchy: Smaller Bases Near Queenstown
+
+Sometimes you want access to Queenstown without making its busy center your home each evening. Two smaller places are worth a closer look.
+
+### Arrowtown
+
+Arrowtown is about 20 minutes from Queenstown. Its gold-rush history is still visible along the main street and among the miners’ cottages. In April, the trees turn the town a remarkable gold.
+
+The appeal is the balance. Queenstown’s activities remain close enough for a day out, but you return to a much smaller town afterward. If you want to spend your evenings somewhere more relaxed while keeping the adventure menu nearby, Arrowtown is a sensible base.
+
+### Glenorchy
+
+Glenorchy is about 50 minutes from Queenstown, reached by a drive along the far side of Lake Wakatipu that is an experience in itself. It is a gateway to the Routeburn Track and other hikes, with mountain and valley scenery that rewards spending more than a few minutes there.
+
+Many people arrive on a day trip, stop for a photograph at the red shed on the wharf, and leave. Staying gives you a different Glenorchy once those day trips have gone home. Choose it if the landscape and hiking are your priorities. Just remember that the journey back to Queenstown is part of every Queenstown-based activity day.
+
+## Cromwell: The Base That Lets You Stop Choosing
+
+Most comparisons frame this as Queenstown versus Wanaka. Cromwell changes the argument. Its position in the middle lets you plan days in several directions without committing your entire stay to either lakeside town.
+
+From Cromwell, the main places discussed here are roughly within a 45-minute drive. You could spend Monday on a Queenstown adventure, Tuesday walking near Wanaka, and Wednesday exploring vineyards and gold-mining history much closer to your accommodation. In the evening, you return to a town where parking outside where you are staying is less of an undertaking.
+
+That does not mean Cromwell makes every journey shorter. If you plan to spend all three days in Queenstown, stay closer to Queenstown. If all you want is the Wanaka waterfront and Mount Aspiring walks, Wanaka is the natural choice. **Cromwell works best when variety is the point.**
+
+It is useful for a wider South Island route, too. The road north over the Lindis Pass puts the Mount Cook region about two and a half hours from Cromwell or Wanaka, roughly an hour closer than from Queenstown. That makes a day trip possible, although it is still a substantial amount of driving. It may also fit neatly as the next leg of your road trip.
+
+### Is Cromwell a Place You Would Actually Want to Stay?
+
+Being central would not count for much if there were nothing to enjoy when you got back. Fortunately, Cromwell has more to it than its road connections. The Old Cromwell Heritage Precinct sits by the lake, giving you a place to wander without turning every free hour into another drive.
+
+About ten minutes away, Bannockburn combines gold-mining history with some of the country’s excellent Pinot Noir. The hills still show the marks of the miners who worked them. In the other direction, Clyde is roughly 20 minutes away, with a stone main street and an impressive restaurant scene for a village of around 1,000 people.
+
+This is stone-fruit country as well. In January, roadside cherries are one of the pleasures of passing through. For cyclists, the 55-kilometer Lake Dunstan Cycle Trail between Cromwell and Clyde offers a different way to experience the landscape.
+
+### A Note for Cyclists Planning the Queenstown Connection
+
+The Kawarau Gorge Trail was presented with a 25 October opening date and a planned cycling connection between the Queenstown side of the region and Cromwell. That is an exciting prospect if you are considering a trip built around trails rather than car journeys.
+
+Opening dates and trail arrangements can change. Treat that date as the announcement made at the time and confirm current access, route information, and suitability before you set off.
+
+## How to Pick the Right Base for a Three-Night Stay
+
+Start with your planned days, not the most famous town name. Put your must-do activities on a map, then consider where you want to return each evening. A beautiful hotel is less appealing if reaching it repeatedly costs you the time you came here to enjoy.
+
+- **Choose Queenstown** for the largest choice of adventure activities, restaurants, accommodation, and lively evenings, especially if most of your plans are in or near town.
+- **Choose Wanaka** for alpine scenery, walks, cycling, vineyards, and a gentler pace, while accepting fewer activity and dining options than Queenstown.
+- **Choose Arrowtown** for a smaller historic town with relatively easy access to Queenstown’s activities.
+- **Choose Glenorchy** when hiking and the landscape at the head of Lake Wakatipu are the heart of your stay.
+- **Choose Cromwell** when you want to divide your time among Queenstown, Wanaka, wine country, cycling, and gold-mining history.
+- **Consider Clyde** if a small stone-built village and good dining appeal, particularly alongside plans for the surrounding trails and towns.
+
+Central Otago is often one stop within a longer South Island journey. If you are still working out how the pieces fit together, the [online travel planner](https://geni.us/AccTravelPlanner) can help you tailor the wider route rather than treating these three nights in isolation.
+
+### Plan Your South Island Route
+
+Download a free South Island itinerary to help fit Central Otago into your trip. [Get the Free Itinerary](https://geni.us/TempSouth12Days).
+
+There is no single best base for everyone. Queenstown gives you the biggest menu, but can take time back in traffic. Wanaka gives you much of the alpine appeal at a different pace. Cromwell gives you a practical middle ground and plenty to enjoy nearby. Get that decision right, and on a three-night stay, you may gain the most valuable thing a road trip can offer: more of your afternoons.`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {
