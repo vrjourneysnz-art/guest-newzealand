@@ -10776,7 +10776,12 @@ Yes, popular holiday parks and campsites should be booked ahead during peak summ
     excerpt: `Queenstown, Wanaka, Arrowtown, Glenorchy, Cromwell or Clyde? How to choose the right Central Otago base for a three-night stay — and why central Cromwell can save you hours of driving and traffic.`,
     ogImage: "https://img.youtube.com/vi/xCQhfxoSEUQ/maxresdefault.jpg",
     youtubeIds: ["xCQhfxoSEUQ"],
-    images: [],
+    images: [
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2F888dd124-ad4d-4978-bf56-8f9582ea55a5.webp?alt=media&token=8bc3cdd4-afb6-4b5f-85c6-0417e93d985c",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2F6a1ad6f4-a938-4f88-a9ed-755521a292db.webp?alt=media&token=1d45e16f-c519-4ff1-86aa-2d6b11c9cf8b",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2F9b3e9231-e747-4a21-84bb-ab85ad6ed651.webp?alt=media&token=963db295-2de5-4808-ad1e-bd426352421c",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2Fe76e1a5a-8e9a-4988-9f7a-86cc5ba3fe98.webp?alt=media&token=2841002d-e368-4346-9fd7-e37266b15518"
+    ],
     content: `Queenstown and Wanaka are spectacular, but choosing between them is not quite the right question. Your base determines how much of a short Central Otago stay you spend exploring and how much you spend getting in and out of town.
 
 After 35 years of planning trips through this part of New Zealand, I have learned to look at the map before looking at hotels. Most travelers give the region about three nights. On a stay that short, an hour lost in traffic is not a minor inconvenience. It is time you could have spent by a lake, on a trail, or over a long lunch.
@@ -10806,6 +10811,8 @@ The compromise is congestion. Queenstown is the busiest tourism spot in the coun
 
 A journey from the Lake Hayes area that once took locals about 15 minutes may take 30 minutes on a good day and 45 to 60 minutes in rush hour. That matters when your accommodation is in Queenstown but much of your itinerary is elsewhere. You may face the delay leaving in the morning and again coming home.
 
+![Slide comparing former and current travel times on Frankton Road into Queenstown](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2F888dd124-ad4d-4978-bf56-8f9582ea55a5.webp?alt=media&token=8bc3cdd4-afb6-4b5f-85c6-0417e93d985c "A short distance on the map can take a substantial bite out of a three-night stay.")
+
 So the question is not whether to visit Queenstown. You should. The better question is whether you need to sleep there. If your plans center on Queenstown activities, restaurants, and evenings out, the answer may be yes. If you intend to head in a different direction each day, compare the total driving before you book.
 
 ## Wanaka: Alpine Scenery With Less Friction
@@ -10823,6 +10830,8 @@ The trade-off is straightforward: Wanaka has fewer restaurants and a shorter men
 Yes, and you do not necessarily have to drive through Queenstown to do it. Southern Alps Air offers a fly, cruise, fly trip from Wanaka Airport to Milford Sound. The itinerary described takes around 40 minutes in the air each way, includes approximately an hour and a half on the water, and returns to Wanaka roughly four hours after departure.
 
 At around NZ$800 per person, it is a significant expense. But compare it with the alternative the trip replaces: about ten hours in a car, much of it retracing the same road. The flight adds views over glaciers and the Dart Valley. For someone with only three nights in the region, the time saved may be as important as the experience itself.
+
+![Graphic comparing a four-hour fly-cruise-fly trip from Wanaka with a ten-hour drive](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2F6a1ad6f4-a938-4f88-a9ed-755521a292db.webp?alt=media&token=1d45e16f-c519-4ff1-86aa-2d6b11c9cf8b)
 
 Flight schedules, prices, and conditions can change, so check current details before building an entire day around this option.
 
@@ -10848,6 +10857,8 @@ Most comparisons frame this as Queenstown versus Wanaka. Cromwell changes the ar
 
 From Cromwell, the main places discussed here are roughly within a 45-minute drive. You could spend Monday on a Queenstown adventure, Tuesday walking near Wanaka, and Wednesday exploring vineyards and gold-mining history much closer to your accommodation. In the evening, you return to a town where parking outside where you are staying is less of an undertaking.
 
+![Map with Cromwell at the center and Queenstown, Arrowtown, Wanaka, and Clyde labeled around it](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2F9b3e9231-e747-4a21-84bb-ab85ad6ed651.webp?alt=media&token=963db295-2de5-4808-ad1e-bd426352421c "Cromwell’s position makes a varied itinerary easier to arrange from one base.")
+
 That does not mean Cromwell makes every journey shorter. If you plan to spend all three days in Queenstown, stay closer to Queenstown. If all you want is the Wanaka waterfront and Mount Aspiring walks, Wanaka is the natural choice. **Cromwell works best when variety is the point.**
 
 It is useful for a wider South Island route, too. The road north over the Lindis Pass puts the Mount Cook region about two and a half hours from Cromwell or Wanaka, roughly an hour closer than from Queenstown. That makes a day trip possible, although it is still a substantial amount of driving. It may also fit neatly as the next leg of your road trip.
@@ -10863,6 +10874,8 @@ This is stone-fruit country as well. In January, roadside cherries are one of th
 ### A Note for Cyclists Planning the Queenstown Connection
 
 The Kawarau Gorge Trail was presented with a 25 October opening date and a planned cycling connection between the Queenstown side of the region and Cromwell. That is an exciting prospect if you are considering a trip built around trails rather than car journeys.
+
+![Kawarau Gorge Trail webpage showing an opening date of 25 October](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2Fx5l2PPfpuECeVZ6OFtF5%2Fscreenshots%2Fe76e1a5a-8e9a-4988-9f7a-86cc5ba3fe98.webp?alt=media&token=2841002d-e368-4346-9fd7-e37266b15518 "Check the trail’s current status and route details before planning a ride around the announced opening.")
 
 Opening dates and trail arrangements can change. Treat that date as the announcement made at the time and confirm current access, route information, and suitability before you set off.
 

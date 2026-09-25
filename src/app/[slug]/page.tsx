@@ -158,6 +158,25 @@ export default function BlogPostPage({ params }: Props) {
                     {trimmed.replace("##### ", "")}
                   </h5>
                 );
+              // Image line: ![alt](url) or ![alt](url "caption")
+              const img = trimmed.match(/^!\[([^\]]*)\]\((\S+)(?:\s+"([^"]*)")?\)$/);
+              if (img)
+                return (
+                  <figure key={i} className="my-8">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={img[2]}
+                      alt={img[1]}
+                      loading="lazy"
+                      className="w-full rounded-lg shadow-lg"
+                    />
+                    {img[3] && (
+                      <figcaption className="text-sm text-dark/60 text-center mt-2">
+                        {img[3]}
+                      </figcaption>
+                    )}
+                  </figure>
+                );
               if (trimmed.startsWith("- "))
                 return (
                   <li key={i} className="text-dark/70 leading-relaxed ml-4 mb-1">
