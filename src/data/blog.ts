@@ -10898,6 +10898,201 @@ Download a free South Island itinerary to help fit Central Otago into your trip.
 
 There is no single best base for everyone. Queenstown gives you the biggest menu, but can take time back in traffic. Wanaka gives you much of the alpine appeal at a different pace. Cromwell gives you a practical middle ground and plenty to enjoy nearby. Get that decision right, and on a three-night stay, you may gain the most valuable thing a road trip can offer: more of your afternoons.`,
   },
+  {
+    slug: "best-car-rental-new-zealand",
+    title: "Best Car Rental in New Zealand: Who Can You Actually Trust?",
+    date: "October 3, 2026",
+    excerpt: `Avis, Hertz, GO Rentals, Snap — which New Zealand rental car company can you trust? A four-tier guide to matching the right operator to your route, plus the five red-flag checks to make before you book.`,
+    ogImage: "https://img.youtube.com/vi/ZI-0NqCPONo/maxresdefault.jpg",
+    youtubeIds: ["ZI-0NqCPONo"],
+    images: [
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Frental-company-comparison-factors-851612.webp?alt=media&token=38896a0d-ad64-4342-a197-a411b16fe5ec",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Frental-brand-ownership-groups-095aba.webp?alt=media&token=2920df7e-2abf-4ea3-8527-0e96e2bf61c2",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Ffive-rental-car-red-flags-280ad4.webp?alt=media&token=abc4a784-98e1-4a12-874e-b440b1fa38d0",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Ftwo-island-rental-car-route-77cae4.webp?alt=media&token=9f01190b-f792-4b4a-8c4c-e34f7fcec97c"
+    ],
+    content: `Avis, Hertz, GO Rentals, Snap. Dozens of rental companies, all promising a great deal. But here’s the catch: **the cheapest quote is not always the cheapest car**, and the brand you book may belong to a company you thought you were avoiding.
+
+After 35 years of booking rental cars in New Zealand, I find it much easier to sort operators into four practical tiers. Not because one company is right for every trip, but because different journeys need different things.
+
+A familiar international name can be worth the premium when you need its depot network. A local operator can offer better value when you don’t. The trick is to choose your route first, then your rental company, rather than letting a tempting daily rate dictate your holiday.
+
+## Key Takeaways
+
+- Your pickup and return locations should determine the rental tier you consider.
+- Budget rental labels can belong to the same corporate groups as premium brands.
+- Local operators often offer the best balance of value and personal service.
+- Check vehicle age, bond, association membership, roadside assistance and recent reviews before booking.
+
+## What Really Separates New Zealand Rental Companies?
+
+Unlimited kilometres are offered across the operators compared here, so that feature does little to separate them. Put several quotes side by side and it can look as though price is the only meaningful difference.
+
+It isn’t. These are the four things I look at:
+
+- **Depot coverage:** Can you collect and return the car where your itinerary requires?
+- **Vehicle age:** Are you hiring a newer car or a considerably older model?
+- **What’s included:** Does the quote cover the extras you actually need?
+- **Roadside support:** Who answers the phone and helps when something goes wrong?
+
+![Slide showing depots, car age, inclusions and roadside backup as four comparison factors](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Frental-company-comparison-factors-851612.webp?alt=media&token=38896a0d-ad64-4342-a197-a411b16fe5ec)
+
+Those factors turn a basic price comparison into a useful decision. A company with dozens of branches is not automatically better for you than one with six. If your journey only uses one branch, much of that larger network may provide no practical benefit.
+
+### The logo does not tell you who is behind the desk
+
+Ownership is another piece of the puzzle. Apex was a New Zealand company until Avis Budget Group bought it in 2012. Thrifty in New Zealand is operated by Hertz. GO Rentals, a New Zealand company, operates Enterprise, National and Alamo under licence.
+
+So a different name does not necessarily mean a completely different organisation. That matters if you are choosing a budget label for corporate backing, or deliberately trying to avoid a particular rental group.
+
+## Tier 1: The Major International Brands
+
+**Avis, Budget, Hertz and Europcar** sit at the top of my rental ladder. Their strongest advantage is their network, combined with the convenience of airport terminal locations.
+
+To give you a sense of scale, the figures used for this comparison are 49 Hertz locations in New Zealand, including 18 airport locations, 33 Budget locations and 24 Avis locations. That coverage can open up pickup and return combinations that smaller operators cannot offer.
+
+At a terminal desk, the process is straightforward: arrive, go to the counter and collect your car without taking a shuttle to an off-airport depot. That is convenient, but you pay for it.
+
+### Convenience has a cost
+
+Hertz provides a useful published example: an airport charge of approximately NZ$52 at Auckland, Wellington, Christchurch and Queenstown airports. These charges help cover the cost of operating from the terminal, including charges imposed by the airport company. Check the current amount and whether it is included in your quote before booking.
+
+Then look at extras. Child seats, snow chains and an additional driver may be charged separately. A competitive base rate can become much less competitive once you add everything your trip requires.
+
+There is another assumption worth challenging: **big does not always mean responsive**. In my experience, a roadside problem with a major brand can mean dealing with a central call centre rather than the local branch that handed you the keys.
+
+My recommendation is to use tier 1 when your trip genuinely needs the network. A one-way journey ending somewhere that only the major brands serve is a good example. In that situation, the premium earns its keep.
+
+## Tier 2: Budget Labels with Big-Group Backing
+
+A cheaper brand often looks like a smaller, separate company. Sometimes it is simply another label within the same rental group.
+
+- **Apex:** Owned by Avis Budget Group since 2012.
+- **Thrifty and Dollar:** Part of the Hertz-related offering in New Zealand.
+- **Ace Rental Cars:** Another Hertz subsidiary, with 10 branches in this comparison.
+- **Keddy:** Europcar’s budget label.
+
+![Ownership slide grouping Avis, Budget and Apex; Hertz, Thrifty, Dollar and Ace; and Europcar with Keddy](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Frental-brand-ownership-groups-095aba.webp?alt=media&token=2920df7e-2abf-4ea3-8527-0e96e2bf61c2)
+
+The attraction is straightforward: you get a budget-priced offering with a larger corporate group behind it. The usual trade-off is a slightly older vehicle and fewer frills.
+
+Apex is a useful example. It has 14 branches, offers a free airport shuttle and does not charge for additional drivers. Those inclusions can make a meaningful difference to the total price, especially if you plan to share the driving.
+
+Do not confuse corporate backing with identical booking conditions, though. You still need to check the depots and inclusions available through the particular brand you are hiring.
+
+Tier 2 is a sensible middle path if you like the reassurance of a major rental group but do not want to pay the full premium-brand price. It belongs on the shortlist, rather than being dismissed simply because the label is cheaper.
+
+## Tier 3: The Local-Operator Sweet Spot
+
+This is the tier I recommend for most of my clients: **GO Rentals, Ezi Car Rental and Snap Rentals**, with Yes Rentals requiring a closer look at the vehicle being offered.
+
+I group these operators together because of their practical place in the market, not because they all have identical ownership structures. Ezi, for example, has been owned by Toyota New Zealand since 2023.
+
+### GO Rentals: My preferred operator
+
+GO Rentals has been New Zealand owned since 1999 and has 11 branches in this comparison. Its locations cover Auckland airport and city, Wellington, Nelson, Greymouth, Christchurch, Queenstown, Dunedin, Invercargill and Waiheke Island.
+
+Airport pickup arrangements vary. At Wellington, Dunedin, Invercargill, Queenstown and Nelson airports, GO is at the terminal. At Auckland and Christchurch airports, it provides a short, free shuttle service.
+
+That is an important distinction. Choosing a local operator does not automatically mean giving up terminal convenience everywhere, and taking a shuttle does not automatically make a rental poor value.
+
+### Ezi, Snap and Yes Rentals
+
+Ezi has 24 branches and was named the Canstar Blue 2026 Most Satisfied Customers winner for hire cars. Snap has six branches, a free shuttle service and, at the time of this comparison, a Trustpilot rating of 4.7 from around 27,000 reviews.
+
+Those are useful signals, but they are not a substitute for checking the particular rental you are considering.
+
+Yes Rentals sits on the edge of this tier for me. Its prices can be attractive, but its website lists vehicles spanning model years from 2008 to 2025. That is a substantial range. **Check the model year before you book**, rather than assuming that a familiar model name means a recent vehicle.
+
+### Why fewer depots can work in your favour
+
+If you collect a car in Auckland and return it to Auckland, you are using one depot. A nationwide branch network may sound reassuring, but you are not necessarily getting extra value from it.
+
+With smaller operators, service can also be more personal. The people at the counter are often closer to the people who help sort out a problem on the road. That connection is one reason I favour this tier for many first-time visitors.
+
+The golden rule is simple: **your route decides the tier, not the brand**. Before comparing rental companies, settle your pickup city, return city and how you intend to travel between the islands. If you need a starting point, my [free sample itinerary](https://geni.us/TempNZ21NorthSouth) can help you put the journey together.
+
+### Plan Your New Zealand Route First
+
+Use my free online trip planner to map your journey before choosing a rental car company. [Open the Trip Planner](https://geni.us/AccTravelPlanner).
+
+## Tier 4: When the Cheapest Price Has a Catch
+
+A genuinely good budget rental is one thing. A tiny headline price supported by unclear conditions, a large bond and disputed return charges is another.
+
+At the bottom of the ladder, I am cautious about offers where the low rate distracts from the financial exposure after booking. Older vehicles, substantial credit-card bonds and unclear damage-cover arrangements deserve careful attention.
+
+There are documented reasons for that caution. In 2010, the Commerce Commission took Euro Car Rental, Affinity Car Rental and their directors to court. The case involved false damage claims, charges for repairs that had not been carried out, and vehicles up to eight years old being described as late-model cars. The court noted that the conduct mainly targeted international tourists. Euro Car Rental in that case should not be confused with Europcar.
+
+More recently, in February 2025, [Consumer NZ warned travellers about autoUnion](https://geni.us/ConsumerNZRentals), operating in Auckland and Christchurch. Its reporting raised concerns about NZ$3,000 bonds, vague basic insurance cover and more than NZ$1,500 in disputed damage charges.
+
+These examples do not mean every low-cost operator is untrustworthy. They mean a low quote is not enough evidence of a good deal.
+
+### My five red-flag checks
+
+Before booking an unfamiliar company, check these five things:
+
+1. **The car’s model year.** Find out how old the vehicle is, not just its make and model.
+2. **The bond amount.** Know how much the company requires on your credit card.
+3. **Rental Vehicle Association membership.** Members sign up to the association’s code of conduct.
+4. **24/7 roadside assistance.** Confirm that help is available throughout your rental.
+5. **Reviews from the last three months.** Recent experiences matter more than a collection of old praise.
+
+![Slide listing five checks covering model year, bond, association membership, roadside assistance and recent reviews](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Ffive-rental-car-red-flags-280ad4.webp?alt=media&token=abc4a784-98e1-4a12-874e-b440b1fa38d0)
+
+My rule is firm: **if two of those five checks raise concerns, walk away before booking**. Not later, and not when you are standing at the counter with your luggage.
+
+## Match the Rental Tier to Your Travel Route
+
+The four-tier system becomes much more useful when you apply it to an actual itinerary. Here are three common trip shapes.
+
+### Scenario A: A North Island loop
+
+Suppose you drive from Auckland to Rotorua, continue to Napier and return to Auckland. Same city in, same city out.
+
+Tier 3 is my first choice for that journey. You can benefit from local-operator pricing and personal service without needing a separate return depot. A much larger network is unlikely to be the deciding factor.
+
+### Scenario B: A North Island and South Island combination
+
+You do not have to treat a two-island holiday as one continuous rental.
+
+One option I recommend is to complete your North Island loop, return the first car in Auckland, then fly to Dunedin. Collect a second car from GO Rentals and make your South Island journey from there.
+
+You could return that second car in Greymouth before taking the TranzAlpine train to Christchurch, or drive through to Christchurch and return it there. GO has branches at both return locations.
+
+![New Zealand map showing an Auckland loop, a flight to Dunedin and South Island routes to Greymouth or Christchurch](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F02k0A9WULnW3LxJtWWAR%2Fscreenshots%2Ftwo-island-rental-car-route-77cae4.webp?alt=media&token=9f01190b-f792-4b4a-8c4c-e34f7fcec97c)
+
+The important lesson is that a two-island trip does not automatically require a premium international brand. Splitting the rentals can keep a tier 3 operator practical. Match each rental to the part of the journey it needs to serve.
+
+### Scenario C: A one-way trip to a smaller location
+
+Now suppose your journey ends in a smaller town that the local operators do not serve. This is where tier 1, or a suitable tier 2 brand, becomes worth considering.
+
+You are paying for depot coverage, but this time you actually need it. Check the exact return location before comparing prices. An attractive quote is of little use if the company cannot accommodate your endpoint.
+
+## How to Read a Rental Car Comparison Listing
+
+Comparison sites such as DiscoverCars are useful once you know your route and have a sensible shortlist. Search using the same pickup location, dates and return arrangements so the results are meaningfully comparable.
+
+Then read each listing in this order:
+
+1. **Supplier name:** Identify the actual rental company, not just the car pictured.
+2. **Rating:** Check the supplier’s score, then investigate recent feedback.
+3. **Pickup method:** Look for terminal collection versus shuttle pickup.
+4. **Vehicle age:** Read the model-year information when provided, and ask if it is missing.
+
+Compare similar car groups, then account for inclusions and extras. The price gap between GO, Snap or Yes and the major brands only becomes useful when you understand what each offer contains.
+
+For a closer look at those extra charges, my [guide to New Zealand rental car costs](/cost-rental-car-new-zealand) covers the fees that can change the final bill.
+
+## The Best Rental Company Is the One That Fits Your Trip
+
+GO Rentals is my preferred New Zealand rental car operator, and tier 3 is where I start for most clients. But a preference is not a reason to ignore your itinerary.
+
+Use a major brand when its network solves a real problem. Consider a budget label when corporate backing and a lower price suit your needs. Choose a local operator when its depots fit your journey, and be cautious when an unusually cheap offer fails the basic checks.
+
+The decision follows a simple chain: **route first, rental tier second, company third**. Get that order right, and you are much more likely to book a car that delivers genuine value rather than merely looking cheap.`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {
