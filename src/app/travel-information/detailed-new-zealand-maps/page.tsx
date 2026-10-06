@@ -6,6 +6,15 @@ export const metadata: Metadata = {
   title: "Detailed New Zealand Maps | Guest New Zealand",
   description:
     "Detailed maps of New Zealand for your travel research — North Island and South Island maps with major towns, cities, roads, distances and travel times.",
+  alternates: { canonical: "/travel-information/detailed-new-zealand-maps" },
+  openGraph: {
+    type: "article",
+    url: "/travel-information/detailed-new-zealand-maps",
+    title: "Detailed New Zealand Maps | Guest New Zealand",
+    description:
+      "Detailed maps of New Zealand for your travel research — North Island and South Island maps with major towns, cities, roads, distances and travel times.",
+    images: ["/images/hero-nz.jpg"],
+  },
 };
 
 const youtubeLinks = [

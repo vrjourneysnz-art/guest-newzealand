@@ -6,6 +6,15 @@ export const metadata: Metadata = {
   title: "Personal New Zealand Driver Guide | Guest New Zealand",
   description:
     "Private, individually tailored driver-guide service throughout New Zealand. Hidden, authentic places shown by an experienced local. Bookings 3–14 days.",
+  alternates: { canonical: "/about-us/personal-new-zealand-driver-guide" },
+  openGraph: {
+    type: "article",
+    url: "/about-us/personal-new-zealand-driver-guide",
+    title: "Personal New Zealand Driver Guide | Guest New Zealand",
+    description:
+      "Private, individually tailored driver-guide service throughout New Zealand. Hidden, authentic places shown by an experienced local. Bookings 3–14 days.",
+    images: ["/images/hero-nz.jpg"],
+  },
 };
 
 const benefits = [
