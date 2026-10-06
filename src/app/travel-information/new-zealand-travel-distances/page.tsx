@@ -6,6 +6,15 @@ export const metadata: Metadata = {
   title: "New Zealand Travel Distances | Guest New Zealand",
   description:
     "New Zealand travel distances charts and maps showing major towns and tourist destinations — a great way to plan realistic driving times for your NZ trip.",
+  alternates: { canonical: "/travel-information/new-zealand-travel-distances" },
+  openGraph: {
+    type: "article",
+    url: "/travel-information/new-zealand-travel-distances",
+    title: "New Zealand Travel Distances | Guest New Zealand",
+    description:
+      "New Zealand travel distances charts and maps showing major towns and tourist destinations — a great way to plan realistic driving times for your NZ trip.",
+    images: ["/images/hero-nz.jpg"],
+  },
 };
 
 const tips = [
