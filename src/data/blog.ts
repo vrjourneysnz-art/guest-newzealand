@@ -11093,6 +11093,224 @@ Use a major brand when its network solves a real problem. Consider a budget labe
 
 The decision follows a simple chain: **route first, rental tier second, company third**. Get that order right, and you are much more likely to book a car that delivers genuine value rather than merely looking cheap.`,
   },
+  {
+    slug: "new-zealand-in-spring",
+    title: "New Zealand in Spring: The Best Month to Visit and When Not to Go",
+    date: "October 10, 2026",
+    excerpt: `September, October or November? New Zealand in spring can feel like three different trips. How the weather, seasonal openings and Labour Day change things, which month suits your trip, and when not to go.`,
+    ogImage: "https://img.youtube.com/vi/sSx2eLjASX8/maxresdefault.jpg",
+    youtubeIds: ["sSx2eLjASX8"],
+    images: [
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F8ZXXFuIu9dM18YnkEBBA%2Fscreenshots%2Fspring-rainfall-comparison-4725bb.webp?alt=media&token=44cfb6a3-5cac-48b3-bc8c-0a6bccf8a01f",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F8ZXXFuIu9dM18YnkEBBA%2Fscreenshots%2Fgreat-walks-season-dates-d2d1d8.webp?alt=media&token=2c6e2efb-131f-4e3b-a582-7f1b24c3bf13",
+      "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F8ZXXFuIu9dM18YnkEBBA%2Fscreenshots%2Fnz-road-conditions-map-7cf922.webp?alt=media&token=070d7407-d15e-4821-a21a-2681158a5f5f"
+    ],
+    content: `New Zealand in spring sounds perfect. Lambs in green paddocks, snowcapped mountains, waterfalls in full flow, and fewer tourists. And yes, you can have all of that. But here’s the catch: September, October, and November can feel like three completely different trips.
+
+September is quiet. October is when the country starts waking up. November is when the busy season gets properly underway. Choosing between them is not simply a matter of finding warmer weather. It also determines which activities are running, how early you need to book, and how much flexibility your itinerary needs.
+
+After 35 years of planning New Zealand travel, I put particular importance on one date: **Labour Day, on the fourth Monday in October.** It marks a useful dividing line between the quieter part of spring and the start of the main travel season.
+
+The best spring month depends on the trip you actually want. Here’s how to make that choice without getting caught out.
+
+## Key Takeaways
+
+- September favors quiet and value, while November offers more seasonal activities and greater demand.
+- Labour Day marks a key shift in seasonal openings and domestic travel demand.
+- Pack layers and a proper waterproof jacket for cold nights and rapidly changing weather.
+- Build weather alternatives and buffer days into your route, especially before your international departure.
+
+## New Zealand Spring Weather: Warmer Does Not Mean Warm
+
+Spring in New Zealand runs from September through November. But if you’re imagining beach weather in October, rethink that picture, particularly for the South Island.
+
+Temperatures rise through the season, yet mornings and nights can remain properly cold. These average daytime highs give you a more realistic starting point:
+
+- **Queenstown:** 13°C in September, 17.5°C in November.
+- **Christchurch:** 15°C in September, 19°C in November.
+- **Auckland:** About 16.5°C in September, nearly 20°C in November.
+
+Queenstown’s average overnight low is only about **2°C in September**, rising to around 6°C in November. If you’re coming from Singapore, Mumbai, or Brisbane, that is going to feel cold.
+
+For a Fahrenheit comparison, 13°C is about 55°F. Think crisp spring weather with mountain air added on top, rather than a warm-weather holiday.
+
+Even January in Queenstown averages about 22°C during the day, only roughly five degrees warmer than November. The lesson is not that spring is a poor time to travel. It is that you need to pack for the conditions, not the word “spring.”
+
+### Rain Depends More on Where You Go
+
+You’ll often hear spring described as New Zealand’s wet season. That is only half the story.
+
+Auckland gets around 100 mm of rain in September, close to twice its January rainfall. But head south and the pattern looks different. Christchurch sits at roughly 45 mm a month through spring, while Queenstown is around 60 mm.
+
+![Bar chart comparing monthly rainfall in Auckland, Christchurch, and Queenstown](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F8ZXXFuIu9dM18YnkEBBA%2Fscreenshots%2Fspring-rainfall-comparison-4725bb.webp?alt=media&token=44cfb6a3-5cac-48b3-bc8c-0a6bccf8a01f)
+
+Milford Sound is another matter altogether. It receives roughly half a meter of rain a month throughout the year. Rain there is not simply a spring issue.
+
+**Your route matters more than a blanket seasonal label.** A trip through Auckland, Christchurch, and Milford Sound involves very different rainfall conditions, even within the same month.
+
+What really makes spring distinctive is how quickly the weather changes. Sunshine can turn into a shower, followed by a cold southerly wind, then sunshine again, all before lunch. I’ve seen that sequence happen within an hour.
+
+### Pack Layers, Not Just One Big Jacket
+
+The practical answer is a simple layering system:
+
+- **A T-shirt** for milder conditions.
+- **A fleece** for warmth when temperatures drop.
+- **A proper waterproof jacket** for rain and exposed conditions.
+
+One heavy jacket gives you fewer options as the day changes. Layers let you adjust without being either too hot or too cold.
+
+And make that outer layer genuinely waterproof. A light jacket that soaks through after twenty minutes is not much help. My [New Zealand packing guide](https://geni.us/PackingNZ) covers the wider packing decisions, but those three layers are the foundation.
+
+## September: Best for Quiet Roads, Scenery, and Value
+
+Spring officially starts on September 1, although many international travelers still think of September as the tail end of winter and skip it. That can be a lovely opportunity for those who don’t mind cooler weather.
+
+September and October bring far fewer international visitors than the summer peak and autumn months. In September especially, that can mean quieter viewpoints, easier accommodation availability, and some of the best value of the year.
+
+The scenery is a big part of the appeal. Lambing season runs broadly from late August into October, filling paddocks with newborn lambs. Blossoms appear in Central Otago, and the mountains still carry their winter snow.
+
+Snowy peaks above green valleys: that classic New Zealand contrast is one of September’s great strengths. You don’t need to climb into the mountains to appreciate it. Scenic drives and lower-level walks can deliver a wonderfully rewarding trip.
+
+Daylight saving begins on the last Sunday in September, shifting an extra hour of daylight into the evening. That makes a noticeable difference to the time available after a day’s drive.
+
+### The September Trade-Off: Some Operators Are Still Closed
+
+Here’s the part that matters when you start making bookings. In September and early October, some seasonal businesses are still waking up.
+
+Smaller boat-trip operators, certain alpine tours, and some lodges may not reopen until mid-October. A good price means very little if the experience you want is not available on your dates.
+
+**Check opening dates with operators before locking in your itinerary.** Don’t assume that because a tour appears online, it runs throughout spring.
+
+My advice for September is to build the trip around:
+
+- Scenic drives with time to stop.
+- Lakes, valleys, and countryside.
+- Walks that don’t depend on alpine conditions.
+
+September works beautifully if quiet and value matter more to you than warmth or having every seasonal activity available. It is a less suitable choice if one major alpine hike is the whole reason for your trip.
+
+## October: Best for Flexible Nature Lovers
+
+October is not just a warmer version of September. It is the month when New Zealand changes gear.
+
+The farmland is wonderfully green, lambs are still part of the landscape, and rivers are running high with snowmelt and spring rain. For nature lovers willing to stay flexible, there is a lot to enjoy.
+
+### Wildlife Opportunities and Timing
+
+On the South Island’s West Coast, White Heron Sanctuary tours at Whataroa start in September and continue through early March. This is New Zealand’s only white heron, or kōtuku, nesting site.
+
+Over on the Otago Peninsula near Dunedin, the Royal Albatross colony offers another wildlife experience. But October is a changeover month for the birds, so sightings are not guaranteed.
+
+Check with the Royal Albatross Centre before building your day around an encounter. Wildlife has its own calendar, and it pays to understand that calendar before committing to a special detour.
+
+At altitude, early October can still carry plenty of winter. Snow on alpine passes remains possible, and the major hikes have not necessarily entered their main season. Green valleys do not mean summer conditions higher up.
+
+### Labour Day: The Date That Changes the Trip
+
+Labour Day falls on the fourth Monday in October. **In 2026, that is Monday, October 26.**
+
+In my experience, this is the point when the country really starts switching into its main travel season. Seasonal operators return, and several major Great Walks begin their main seasons around the same period.
+
+The planning dates highlighted for the 2026 spring season are:
+
+- **Tongariro Northern Circuit:** October 23.
+- **Kepler Track:** October 27.
+- **Milford and Routeburn tracks:** November 1.
+
+![Slide listing season dates for Tongariro Northern Circuit, Kepler, Milford, and Routeburn tracks](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F8ZXXFuIu9dM18YnkEBBA%2Fscreenshots%2Fgreat-walks-season-dates-d2d1d8.webp?alt=media&token=2c6e2efb-131f-4e3b-a582-7f1b24c3bf13)
+
+These are main-season planning dates, not a promise that every track becomes suitable for every person overnight. Confirm the dates and conditions for your travel year before making fixed arrangements.
+
+There is another side to Labour Day: it is a long weekend, and Kiwis travel too. Holiday parks, rental cars, coastal towns, and domestic flights can fill up with local holidaymakers.
+
+So the choice is fairly straightforward. Before Labour Day, you generally get more quiet and value, but fewer seasonal options. Around and after it, more becomes available, but demand rises.
+
+Put the holiday into your day-by-day itinerary before making bookings. It is much easier to plan around a busy weekend than to discover it after choosing your vehicle and overnight stops.
+
+I’ve put together a [free New Zealand travel planning app](https://geni.us/AccTravelPlanner) to help lay out your route day by day and see where these dates fall. There is also a [free three-week North and South Island itinerary PDF](https://geni.us/TempNZ21NorthSouth) if you prefer a written starting point.
+
+### Plan Your New Zealand Route Day by Day
+
+Use the free travel planner to map your spring itinerary and see where Labour Day falls: [Open the Free Travel Planner](https://geni.us/AccTravelPlanner).
+
+## November: Best for Hikers and a Fuller Choice of Activities
+
+People often imagine November as the cheap, quiet version of summer. But November is really the start of New Zealand’s busy season.
+
+The upside is considerable. The Milford and Routeburn tracks enter their main seasons from November 1 in the schedule outlined above. More seasonal experiences are operating, the weather is beginning to settle, and evenings are getting long.
+
+Queenstown’s average daytime high reaches about 17.5°C. Sunset there can be around 9 p.m. as November progresses, giving you plenty of extra sightseeing time.
+
+That extra evening light is useful. You can finish a drive without immediately running out of daylight, or enjoy a lakeside stroll after the day’s main activity. But longer days are not a reason to make every day longer behind the wheel.
+
+### Book November Like Summer
+
+The mistake is assuming that a spring label means you can leave important bookings until arrival.
+
+Rental cars, Cook Strait ferries, and accommodation in Queenstown, Mount Cook, and the West Coast start filling up. Great Walk hut spaces can be booked out months ahead.
+
+**Secure the essentials before you fly:**
+
+- Your rental car or camper.
+- Your Cook Strait ferry, if your route requires one.
+- Key accommodation in popular destinations.
+- Great Walk hut bookings for your planned hike.
+
+You can compare [New Zealand rental car options](https://geni.us/RentalCarOptions) while working out your route, rather than treating transport as something to sort out later.
+
+November is my spring recommendation for hikers and first-time travelers who want the broadest range of seasonal options. Just remember that snow is still possible at altitude. A main-season opening date does not remove the need to check conditions.
+
+## Four Rules for a More Resilient Spring Road Trip
+
+Whichever month you choose, a few itinerary decisions can take most of the stress out of changeable weather. The aim is not to predict every shower. It is to stop one disruption from affecting the whole trip.
+
+### 1. Don’t Build Everything Around One Mountain Hike
+
+Roys Peak or the Tongariro Alpine Crossing might be high on your wish list. But if the weather closes in on the only day you’ve allowed, a rigid itinerary leaves you disappointed.
+
+Build in an alternative day nearby. A lake walk, scenic drive, or winery afternoon can still be a good day out.
+
+If mountain conditions are suitable, take the opportunity. If they aren’t, you still have something worthwhile planned. **Make the hike a highlight, not the single point on which your entire holiday depends.**
+
+### 2. Check Road Conditions Every Morning
+
+Will roads close in spring? Sometimes. Heavy snow or rain can affect Milford Road, the Crown Range, Arthur’s Pass, Lewis Pass, Lindis Pass, and the Desert Road.
+
+Closures are usually short, and roads are often cleared and reopened quickly. For most spring trips, they do not become a major problem. Still, a usually reliable route is not the same as a guaranteed route.
+
+Check the NZ Transport Agency’s Journey Planner each morning before driving. A quick look at current road information is a small habit that can save a great deal of inconvenience.
+
+![New Zealand road map with colored incident markers and a journey planning sidebar](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F8ZXXFuIu9dM18YnkEBBA%2Fscreenshots%2Fnz-road-conditions-map-7cf922.webp?alt=media&token=070d7407-d15e-4821-a21a-2681158a5f5f)
+
+### 3. Give the West Coast a Buffer Day
+
+Spring rain helps make the South Island’s West Coast waterfalls spectacular. Occasionally, it also closes a road for a few hours.
+
+Allowing a spare day between Franz Josef and Wānaka takes pressure off this part of the route. A delay becomes something you can absorb, rather than a reason to rush the rest of the holiday.
+
+The important point is to leave room in the schedule. An itinerary packed tightly with fixed commitments gives you very little freedom when conditions change.
+
+### 4. Protect Your International Departure
+
+This is my golden rule: avoid putting a long drive on the day before your international flight.
+
+Plan to spend the final night close to your departure airport. A late-afternoon or evening flight may allow more flexibility, but don’t make a weather-sensitive drive the critical link in getting home.
+
+You cannot control spring weather. You can control how much distance remains between you and the airport at the end of your trip.
+
+## Which Spring Month Should You Choose?
+
+The answer comes back to your priorities:
+
+- **Choose September** for quiet, value, scenic drives, and snowy mountain backdrops.
+- **Choose October** for wildlife and green landscapes, with flexibility around weather and seasonal openings.
+- **Choose November** for major hiking plans and a fuller choice of seasonal activities, with advance bookings.
+
+And when should you not go? If your holiday is built around Great Walks or alpine hiking, I would not choose the period before Labour Day. Wait until November, align the trip with the relevant main-season dates, and still keep a weather backup.
+
+The weather determines what you pack. The month determines what is operating. Labour Day helps determine how busy the trip feels. Match those three things to your expectations, and spring can be one of the most rewarding times to explore New Zealand.`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {
