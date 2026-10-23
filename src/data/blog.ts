@@ -11498,6 +11498,199 @@ Your trip details shape the route. The route determines your overnight dates. Th
 
 Get that sequence right, and you avoid building an entire holiday around a hotel in the wrong town or an exhausting transfer day. **Places and dates first, bookings last.** It is a small change in approach that makes New Zealand travel planning much simpler.`,
   },
+  {
+    slug: "mount-cook-or-west-coast-south-island-itinerary",
+    title: "Mount Cook or the West Coast? Choosing Your South Island Travel Itinerary",
+    date: "October 24, 2026",
+    excerpt: `Heading from Christchurch to Queenstown? Should your South Island itinerary go inland via Mount Cook or over to the West Coast? Compare the routes, driving times, the TranzAlpine option, stargazing and crowds, plus three sample itineraries with real overnight stops.`,
+    ogImage: "https://img.youtube.com/vi/57aIutcLKY4/maxresdefault.jpg",
+    youtubeIds: ["57aIutcLKY4"],
+    images: [],
+    content: `Heading from Christchurch to Queenstown? Most travelers automatically put Mount Cook on the route. It is shorter, the photographs look wonderful, and everyone talks about the stars. But does that make it the right choice for your trip?
+
+After 35 years of planning New Zealand holidays, my advice is simple: **choose the landscape you want to spend time in, not just the landmark you want to tick off.**
+
+You can see Aoraki Mount Cook from both sides of the Southern Alps. And a dark sky reserve cannot promise clear skies. Once those two points are understood, this becomes a much more useful decision about time, transport, activities, and the pace of your holiday.
+
+## Key Takeaways
+
+- Choose your route for its daily experiences, not simply the chance to see Mount Cook.
+- The inland route minimizes driving, while the TranzAlpine makes the West Coast accessible without driving Arthur’s Pass.
+- Stargazing depends on moonlight and cloud, even within the Mackenzie dark sky reserve.
+- Allow around 14 South Island nights to combine both sides in a southern loop.
+
+## The Three Routes from Christchurch to Queenstown
+
+The Southern Alps form the backbone of the South Island. Lewis Pass, Arthur’s Pass, and Haast Pass provide the three road crossings to the West Coast. For this journey, there are three main approaches:
+
+- **Route A, inland:** Travel through Geraldine and Fairlie to Lake Tekapo and Lake Pukaki, visit the Mount Cook region, then continue over Lindis Pass toward Queenstown.
+- **Route B, West Coast:** Cross Arthur’s Pass, travel south through glacier country, then cross Haast Pass to Wānaka and Queenstown.
+- **Route C, both:** Build a southern loop that combines the West Coast with the Mount Cook region.
+
+![South Island map showing inland and West Coast routes between Christchurch and Queenstown](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F5D0faVCn0YNZKjMn9GP2%2Fscreenshots%2Fsouth-island-route-options-2f4297.webp?alt=media&token=51d7b81b-797b-49cc-a0f8-27bde61460ce)
+
+The inland journey is roughly **480 kilometers and six hours of driving**, before adding the Mount Cook Village detour. The West Coast option is around **780 kilometers and 11 hours behind the wheel**.
+
+Those are driving estimates, not complete sightseeing days. The longer route needs at least two to three nights along the way, and preferably enough time to enjoy its stops rather than simply connect them.
+
+## You Do Not Have to Visit Mount Cook Village to See the Mountain
+
+This is the first assumption worth dropping. Mount Cook Village gives you access to one side of New Zealand’s highest mountain. It is not the only place you can see it.
+
+About five minutes’ drive from Fox Glacier township is Lake Matheson. Walk the loop early in the morning, before the wind disturbs the water, and clear conditions can reward you with reflections of Aoraki Mount Cook and neighboring Mount Tasman.
+
+![Snow-covered mountain peaks reflected in a still lake bordered by forest](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F5D0faVCn0YNZKjMn9GP2%2Fscreenshots%2Flake-matheson-mountain-reflections-088b0b.webp?alt=media&token=89bfa22c-26cc-4e94-aad6-2af4cc5abd19)
+
+Same mountain. Very different surroundings.
+
+### The Inland Experience: Alpine Lakes and Mountain Walks
+
+East of the Alps, the Mackenzie Basin is a high plateau sitting around 700 to 750 meters above sea level. Think open country, very few trees, enormous turquoise lakes, and hydro canals crossing the landscape.
+
+Lake Tekapo and Lake Pukaki are major attractions in their own right. At the end of the Mount Cook valley, Aoraki rises to 3,724 meters.
+
+The Hooker Valley Track is a key reason to come here. Its full return walk is about 10 kilometers, usually taking three to four hours, with the mountain as the great backdrop. If your ideal day involves alpine scenery and a substantial walk, Route A makes good sense.
+
+### The West Coast Experience: Rainforest, Wildlife, and Glaciers
+
+Across the Alps, less than 40 kilometers from the summit, the setting changes to rainforest. Hokitika receives around 2.8 meters of rain annually, more than four times London’s rainfall. That helps explain the lush landscape.
+
+This side offers a broader mix of nature experiences:
+
+- **Punakaiki:** The layered limestone formations of the Pancake Rocks.
+- **Whataroa:** Access to New Zealand’s only breeding colony of kōtuku, or white heron.
+- **Ōkārito:** The country’s largest unmodified wetland, with rare rowi kiwi in the surrounding area.
+- **Franz Josef:** Glacier activities, including heli-hiking.
+- **Fox Glacier:** Nearby Lake Matheson and its mountain reflections.
+
+So the question is not simply, “Do I want to see Mount Cook?” It is, “Do I want my days filled with alpine lakes and mountain walks, or rainforest, wildlife, and glacier activities?”
+
+## Stargazing Is a Bonus, Not a Guarantee
+
+The Aoraki Mackenzie International Dark Sky Reserve is real and impressive, protecting more than 4,300 square kilometers of night sky. But it does not control the moon or the clouds.
+
+A full moon reduces the contrast of the Milky Way. Cloud can hide the stars completely. Booking a night in the reserve is not the same as booking a spectacular sky.
+
+**Check the moon calendar before fixing your dates.** Roughly the week before and after new moon is the window to consider.
+
+And remember that the Mackenzie is not New Zealand’s only dark region. The West Coast has around 32,000 people spread along some 600 kilometers of coastline, so light pollution is limited. A short distance outside Franz Josef, a clear night can also deliver a wonderfully dark sky.
+
+Go inland because you want the inland experience. If the stars cooperate, excellent. They should enhance the trip, not carry the whole decision.
+
+## Crowds Matter, but Timing Helps
+
+Tekapo and Mount Cook sit on the Christchurch to Queenstown coach-tour route. From late morning through midafternoon, the Hooker Valley Track and Tekapo’s Church of the Good Shepherd are at their busiest.
+
+The West Coast attracts plenty of travelers too, but its attractions are spread across more stops.
+
+For a quieter Hooker Valley walk, aim to start before 8 a.m. A start after 5 p.m. can also avoid the main rush when daylight and conditions allow. You do not necessarily need to reject a popular place. Sometimes you simply need to plan your day differently.
+
+## Drive, Train, or Coach? Transport Can Change the Answer
+
+It is tempting to compare six hours with 11 hours and declare the inland route the winner. But that assumes you have to drive every kilometer.
+
+### Driving the Inland Route
+
+Route A passes through Geraldine, Fairlie, and Tekapo. Mount Cook Village is a **55-kilometer side trip each way** from the main road at the Lake Pukaki turnoff. Allow roughly two additional hours for the return driving, on top of your inland journey.
+
+That detour is easy to overlook when an itinerary simply lists “Mount Cook” between Tekapo and Queenstown.
+
+### Taking the TranzAlpine to the West Coast
+
+The TranzAlpine changes the comparison. The journey covers 223 kilometers from Christchurch to Greymouth over Arthur’s Pass, without you driving any of them.
+
+The timetable outlined here departs Christchurch at 8:15 a.m. and reaches Greymouth at 1:05 p.m. Check current operating dates and times before building connections around it.
+
+![TranzAlpine slide showing Christchurch and Greymouth times, Arthur’s Pass route, and 223-kilometer distance](https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2Fusers%2FeOEYLUFRF5h35YbE6ZtvRlsIbMk1%2Fblogs%2F5D0faVCn0YNZKjMn9GP2%2Fscreenshots%2Ftranzalpine-route-and-times-8c3fdb.webp?alt=media&token=3a07f120-0f46-4feb-9820-58db6c7f8220)
+
+From Greymouth, you have two useful options:
+
+- **Train plus rental car:** Collect a car that afternoon and head south, or first spend one or two nights in Punakaiki. If returning the car in Queenstown, check the one-way fee before booking. Charges vary between companies and rental lengths.
+- **Train plus coach:** A 1:30 p.m. InterCity connection is outlined for Franz Josef, taking about three and a half hours. Stay two nights, then continue by coach to Wānaka, around six and a half hours, or Queenstown, around eight hours. Confirm the connections for your dates.
+
+If winding mountain roads do not appeal, the train removes the Arthur’s Pass drive from your holiday. It does not remove every road journey afterward, but it makes the West Coast a different proposition.
+
+For a large motorhome, keep West Coast driving days to around four or five hours maximum. Heavy rain can cause slips and close the Haast Pass road, so check the NZTA road-conditions map each morning.
+
+## Five Questions That Help You Choose
+
+These are the questions I ask when someone is stuck between Mount Cook and the West Coast:
+
+1. **How many South Island nights do you have?** With fewer than 10, choose one side and enjoy it properly. Around three weeks for New Zealand overall can allow both, provided the South Island gets enough time.
+2. **How much driving do you want?** If the answer is as little as possible, Route A has the advantage.
+3. **Is the TranzAlpine on your wish list?** If yes, Route B fits naturally.
+4. **What do you want your days to include?** Choose between rainforest, wildlife, and glacier activities, or alpine lakes and big mountain walks.
+5. **Are you traveling from December through February?** Mount Cook Village, Twizel, and Tekapo have limited accommodation and fill quickly. Availability may shape your route.
+
+## My Pick for Most First-Time Visitors
+
+**For most first-time visitors with enough nights, I would choose Route B, the West Coast, beginning with the TranzAlpine.**
+
+You get the mountain crossing, rainforest, wildlife, Pancake Rocks, and the possibility of a Franz Josef heli-hike. You can still see Aoraki Mount Cook from Lake Matheson when conditions cooperate.
+
+After collecting a car in Greymouth, Hokitika Gorge can be an afternoon stop before continuing south. That turns the arrival day into part of the experience rather than merely a transfer.
+
+Route A remains the better fit when time is tight, reducing driving matters most, or alpine lakes and walking are your priorities.
+
+Route C works when you can devote around 14 nights to the South Island within a longer New Zealand trip. The honest trade-off is that this southern loop leaves out Nelson Tasman and Kaikōura. Doing both sides of the Alps does not mean doing the whole island.
+
+## Three South Island Itineraries with Real Overnight Stops
+
+A route line becomes useful only when you put nights against it. These examples include time farther south, not just the journey between Christchurch and Queenstown.
+
+### Route A: Inland via the Mount Cook Region, Nine Nights
+
+- **Christchurch:** One night.
+- **Tekapo or Twizel:** Two nights for the lakes and Mount Cook region.
+- **Te Anau:** Three nights, with time for Milford Sound or Doubtful Sound.
+- **Queenstown or Wānaka:** Three nights.
+
+Finish with a flight from Queenstown. This is the shorter option for travelers who want mountain scenery without adding the West Coast crossing.
+
+### Route B: West Coast, 11 Nights
+
+- **Christchurch:** One night.
+- **Hokitika or Punakaiki:** Two nights after the TranzAlpine.
+- **Franz Josef:** Two nights.
+- **Wānaka:** Two nights.
+- **Te Anau:** Two nights.
+- **Queenstown:** Two nights, then fly out.
+
+The two-night stays give the journey breathing room, especially where weather affects activities.
+
+### Route C: Both Sides on a Southern Loop, About 14 Nights
+
+- **Christchurch:** One night.
+- **Punakaiki:** Two nights after the TranzAlpine to Greymouth.
+- **Franz Josef:** Two nights.
+- **Wānaka:** Two nights, reached over Haast Pass.
+- **Te Anau:** Two nights, including time for Milford Sound.
+- **Dunedin:** Two nights after traveling the Southern Scenic Route, with time for the Otago Peninsula’s albatross colony and yellow-eyed penguins.
+- **Mount Cook region:** Two nights, traveling north past the Moeraki Boulders and Ōamaru.
+- **Christchurch:** One final night.
+
+Now you have both sides of the Alps without treating either as a hurried detour. The Mount Cook stars become a bonus rather than the reason for the entire route.
+
+To see how the overnight stops fit your available days, our New Zealand travel planner can lay out the journey. Your first itinerary is free.
+
+**Build Your New Zealand Itinerary:** Lay out your route and overnight stops with the online travel planner. Your first itinerary is free. [Try the Travel Planner](https://geni.us/AccTravelPlanner).
+
+## Five Golden Booking Rules
+
+1. **Allow at least two nights in Franz Josef, Te Anau, and the Mount Cook region.** Give yourself a full day rather than an arrival followed immediately by departure, with some flexibility for weather.
+2. **Book the Mount Cook region first for summer.** For December through February, aim to secure Mount Cook Village, Twizel, or Tekapo accommodation six months or more ahead.
+3. **Book your glacier flight for the first morning.** That leaves another opportunity if weather disrupts the original plan.
+4. **Add 10 to 15 percent to Google Maps driving estimates.** Roads are winding, and you will want photo stops.
+5. **Match your dates to seasonal interests.** Tekapo lupins are typically a late-November into December attraction, while white heron tours run roughly November through February.
+
+## Choose the Experience, Then Give It Enough Time
+
+There is no bad side of the Southern Alps to choose. There is, however, a bad habit of squeezing both sides into a holiday that does not have enough nights.
+
+After decades of planning these trips, I find travelers rarely regret the side they chose. They regret the extra 300 kilometers they added because they were afraid of missing something.
+
+**Pick the world you want to spend your days in, choose transport that suits you, and protect your time there.** A well-paced route will give you far more than another long day behind the wheel.`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {
